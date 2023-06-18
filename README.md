@@ -51,7 +51,7 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
    - Sprint Review: Kullanıcı profil sayfası, uygulama ana sayfası ve arama sayfasının temel front-end tasarımları yapılmıştır. Uygulamanın geliştirme sürecinde front-end tasarımda değişiklik yapılması mümkündür.
    - Sprint Retrospective:
        * Takımdan iki kişi kesin olarak ayrılığını yapmıştır. Takımda 3 kişi olarak devam etmektedir ve projeye devam eden takım üyeleri kesinleşmiştir.
-       * Takım üyelerinin, gelecek sprintlere katılımı teşvik edilmiştir. İlk sprintte göre daha planlı olunması gerektiği vurgulanmıştır.
+       * Takım üyelerinin, gelecek sprintlere katılımı teşvik edilmiştir. İlk sprintten sonra daha planlı olunması gerektiği vurgulanmıştır.
 
 
 
