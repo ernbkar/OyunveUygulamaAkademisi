@@ -44,6 +44,10 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
    ### Ürün ekran görüntüleri
    ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/586e124f-95ec-4ecc-8537-3a1053395ae1)
 
+   ### Sprint Board Update
+   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/7f2c0a18-66dd-4ff9-b36b-282559a2f533)
+
+
    - Sprint Review: Kullanıcı profil sayfası, uygulama ana sayfası ve arama sayfasının temel front-end tasarımları yapılmıştır. Uygulamanın geliştirme sürecinde front-end tasarımda değişiklik yapılması mümkündür.
    - Sprint Retrospective:
        * Takımdan iki kişi kesin olarak ayrılığını yapmıştır. Takımda 3 kişi olarak devam etmektedir ve projeye devam eden takım üyeleri kesinleşmiştir.
