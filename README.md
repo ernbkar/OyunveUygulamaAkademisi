@@ -29,7 +29,7 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
   - Kullanıcının seyahat ettiği yerleri harita üzerinde kaydetmesi. (Geliştirme aşamasında karar verilecek.)
   - Kullanıcının başka kullanıcıları, davet kodu aracılığıyla ağa davet etmesi.
 
-## HEDEF Kitle
+## HEDEF KİTLE
   - Gezginler
   - Turizm şirketleri
   - Sosyal medya içerik üreticileri
