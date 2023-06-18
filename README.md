@@ -36,12 +36,12 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
   - Yerel rehberler
 
 # SPRİNT 1
-   - Tamamlanamsı tahmin edilen puan: 100
+   - Tamamlanması tahmin edilen puan: 100
    - Projede toplam 340 puan toplanması gerekmektedir. Bu durumda ilk sprint için en az 100 puan alınması hedeflenmiştir.
    - Daily Scrum: Daily scrum toplantıları, takımdaki kişilerin ekipman eksikliği ve yoğunluğundan dolayı şimdilik whatsapp üzerinden yapılmaktadır. Projenin ilerleyen aşamalarında farklı bir uygulama kullanılması muhtemeldir. Daily scrum whatsapp konuşmalarına verilen linkten ulaşabilirsiniz: https://github.com/ernbkar/OyunveUygulamaAkademisi/blob/main/Project%20management/sprint1/Daily%20Scrum.txt
 
 
-   ### Ürün ekran görüntüleri
+   ### Ürün Ekran Görüntüleri
    ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/586e124f-95ec-4ecc-8537-3a1053395ae1)
 
    ### Sprint Board Update
