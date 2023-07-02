@@ -61,13 +61,13 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
   ## Sprint Board Update
    ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/f61c2a30-74e5-4cae-b87e-1b02466ac214)
   ## Ürün ekran görüntüleri:
-  -Arama sayfası:
+  ### Arama sayfası:
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/a67064a4-6ab7-4208-a1fb-ecd248ddfff7)
-  -Profil Sayfası:
+  ### Profil Sayfası:
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/77b0ce86-9e7f-4b4f-9e0f-8d66ff78e2ca)
-  -Keşfet Sayfası Anı Kartları:
+  ### Keşfet Sayfası Anı Kartları:
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/5e91c4df-2477-4ff5-b9c1-6c465c07fe73)
-  -Örnek Not Sayfası:
+  ### Örnek Not Sayfası:
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/8c23efee-92fb-43b8-9c02-a1d5b7a90d4c)
 
 
