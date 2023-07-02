@@ -59,7 +59,8 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
   - Daily Scrum: Scrum toplatınlarına whatsapp üzerinden ve gerektiğinde görüntülü konuşma ile yapılmasına karar verilmiştir. Daily scrum toplantılarının whatsapp yedeklerine buradan ulaşabilirsiniz:
   - Sprint Notes: User storylere product backloglarının içerisinde yer verilmiştir. Hikaye ve task detaylarına, product backloglarındaki itemlere tıklanarak ulaşılabilir.
   ## Sprint Board Update
-   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/f61c2a30-74e5-4cae-b87e-1b02466ac214)
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/ac2997a3-3242-4929-8889-0f90d379107d)
+
   ## Ürün ekran görüntüleri:
   ### Arama sayfası:
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/a67064a4-6ab7-4208-a1fb-ecd248ddfff7)
