@@ -56,8 +56,9 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
 
 # SPRİNT 2
   - Sprint içinde tamamlanması tahmin edilen puan: 120
+  - Projede toplam 340 puan toplanması gerekmektedir. Bu durumda ilk sprint için en az 120 puan alınması hedeflenmiştir.
   - Daily Scrum: Scrum toplatınlarına whatsapp üzerinden ve gerektiğinde görüntülü konuşma ile yapılmasına karar verilmiştir. Daily scrum toplantılarının whatsapp yedeklerine buradan ulaşabilirsiniz: https://github.com/ernbkar/OyunveUygulamaAkademisi/blob/main/Project%20management/sprint2/Dailyscrum2.txt
-  - Sprint Notes: User storylere product backloglarının içerisinde yer verilmiştir. Hikaye ve task detaylarına, product backloglarındaki itemlere tıklanarak ulaşılabilir.
+  - Sprint Notes: User storylere product backloglarının içerisinde yer verilmiştir. Hikaye ve task detaylarına, product backloglarındaki itemlere tıklanarak ulaşılabilir. Sprinte taskler ve kullanıcı hikayeleri üzerinde daha verimli durulmuştur.
   ## Sprint Board Update
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/ac2997a3-3242-4929-8889-0f90d379107d)
 
