@@ -54,5 +54,28 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
        * Takımdan iki kişi kesin olarak ayrılığını yapmıştır. Takımda 3 kişi olarak devam etmektedir ve projeye devam eden takım üyeleri kesinleşmiştir.
        * Takım üyelerinin, gelecek sprintlere katılımı teşvik edilmiştir. İlk sprintten sonra daha planlı olunması gerektiği vurgulanmıştır.
 
+# SPRİNT 2
+  - Sprint içinde tamamlanması tahmin edilen puan: 120
+  - Daily Scrum: Scrum toplatınlarına whatsapp üzerinden ve gerektiğinde görüntülü konuşma ile yapılmasına karar verilmiştir. Daily scrum toplantılarının whatsapp yedeklerine buradan ulaşabilirsiniz:
+  - Sprint Notes: User storylere product backloglarının içerisinde yer verilmiştir. Hikaye ve task detaylarına, product backloglarındaki itemlere tıklanarak ulaşılabilir.
+  ## Sprint Board Update
+   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/f61c2a30-74e5-4cae-b87e-1b02466ac214)
+  ## Ürün ekran görüntüleri:
+  -Arama sayfası:
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/a67064a4-6ab7-4208-a1fb-ecd248ddfff7)
+  -Profil Sayfası:
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/77b0ce86-9e7f-4b4f-9e0f-8d66ff78e2ca)
+  -Keşfet Sayfası Anı Kartları:
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/5e91c4df-2477-4ff5-b9c1-6c465c07fe73)
+  -Örnek Not Sayfası:
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/8c23efee-92fb-43b8-9c02-a1d5b7a90d4c)
+
+
+  - Sprint Review: Kullanıcı profil sayfası, ana sayfa tasarımlarına ait kartlar, profil sayfasında tıklanabilir widgetların tasarımları yapılmıştır. Sprint Review Katılımcıları: Eren Bekar
+  - Sprint Retrospective:
+        * Takım üyelerinin, gelecek sprintlere katılımı teşvik edilmiştir. İlk sprintten sonra daha planlı olunması gerektiği vurgulanmıştır.
+
+
+
 
 
