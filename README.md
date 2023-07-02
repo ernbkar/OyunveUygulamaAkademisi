@@ -75,6 +75,9 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
   - Sprint Review: Kullanıcı profil sayfası, ana sayfa tasarımlarına ait kartlar, profil sayfasında tıklanabilir widgetların tasarımları yapılmıştır. Sprint Review Katılımcıları: Eren Bekar
   - Sprint Retrospective:
         * Takım üyelerinin, gelecek sprintlere katılımı teşvik edilmiştir. İlk sprintten sonra daha planlı olunması gerektiği vurgulanmıştır.
+## PRODUCT BACKLOG
+https://miro.com/app/board/uXjVM53da1w=/
+
 
 
 
