@@ -1,0 +1,935 @@
+3.06.2023 11:22 - Mesajlar ve aramalar uçtan uca şifrelidir. WhatsApp da dahil olmak üzere bu sohbetin dışında bulunan hiç kimse mesaj ve aramalarınızı okuyamaz ve dinleyemez. Daha fazla bilgi edinmek için dokunun.
+3.06.2023 11:22 - "Tel-Aviv bedava bilet" grubunu oluşturdunuz
+3.06.2023 11:22 - ‎Battı Çıktı Berkay kişisini çıkardınız
+3.06.2023 16:20 - ‎+90 552 846 75 13 bu grubun davet bağlantısını kullanarak katıldı.
+3.06.2023 20:56 - Eren: Bizim grupta geriye kalanlar aktif değil galiba
+3.06.2023 21:16 - Eren: Yarına kadar kimse dönmezse maalesef takım değiştirecegim
+3.06.2023 21:56 - +90 552 846 75 13: Hadi ya
+3.06.2023 21:56 - +90 552 846 75 13: Takım değiştirme formu geldi mi
+3.06.2023 21:58 - Eren: daha bakmadım ama yayınlamışlardır muhtemelen
+4.06.2023 08:53 - +90 552 846 75 13: <Medya dahil edilmedi>
+4.06.2023 08:53 - +90 552 846 75 13: Mesajınız söyle görünüyor ne yazdınız acaba
+4.06.2023 10:43 - Eren: daha bakmadım ama yayınlamışlardır muhtemelen yazmıştım
+4.06.2023 10:44 - +90 552 846 75 13: Ha anladım
+4.06.2023 16:43 - Eren: Numan hariç herkes ulaştı bana ya
+4.06.2023 16:46 - +90 552 846 75 13: Ne yapacağız bundan sonrası
+4.06.2023 16:46 - ‎+90 543 932 30 98 bu grubun davet bağlantısını kullanarak katıldı.
+4.06.2023 16:47 - Eren: Bence herkesi bir şekilde WhatsApp grubuna alalım
+4.06.2023 16:47 - Eren: Ondan sonra konuşmaya başlarız
+4.06.2023 16:47 - +90 552 846 75 13: Tamam
+4.06.2023 16:47 - Eren: 1 arkadaş daha kaldı numandan ümidi kestim ben shhshs
+4.06.2023 16:47 - +90 552 846 75 13: 5 kişiyiz
+4.06.2023 16:47 - +90 552 846 75 13: 1 kişi daha yok
+4.06.2023 16:48 - +90 543 932 30 98: Merhaba arkadaşlar 🌸
+4.06.2023 16:53 - +90 552 846 75 13: Merhaba : )
+4.06.2023 16:55 - Eren: Davet linkini attım ona da
+4.06.2023 17:00 - ‎+90 553 576 66 10 bu grubun davet bağlantısını kullanarak katıldı.
+4.06.2023 17:06 - +90 552 846 75 13: Merhaba arkadaşlar tekrardan eğer aramızdan birinin grup değiştirme gibi bir Fikri yoksa ben çalışmaya başlayalım diyorum
+4.06.2023 17:16 - +90 553 576 66 10: Baslamadan once bir sey sormak istiyorum. Develop kisminda katkim olabilecek yetkinlikte degilim. Scrum master olarak destek olabilirim. Roller paylasildi mi?
+4.06.2023 17:17 - +90 552 846 75 13: Yok şu an rol paylaşımı veya ne kadar bilgimiz olduğunu tartışmadik önce kim grupta kalacak ona göre kemik üyeleri belirleyelim ondan sonra görev paylaşımı ve diğer konuları hal ederiz
+4.06.2023 17:19 - +90 553 576 66 10: Ben kemik kadroda scrum master olarak destek olabilirim. Eger derseniz ki bizim develop olarak daha cok ihtiyacimiz var ben size yuk olmamak icin grup degistirebilirim
+4.06.2023 17:20 - +90 552 846 75 13: O zaman kod tarafında ben yapabilirim diyen var mı
+4.06.2023 17:20 - +90 552 846 75 13: Çünkü bende kodda kendime güvenmiyorum açıkçası
+4.06.2023 19:29 - +90 552 846 75 13: arkadaşlar fikirlerinizi belirtirseniz daha hızlı ilerleyebiliriz
+4.06.2023 19:30 - +90 552 846 75 13: çünkü takım değişikliği için son gün 5 haziran
+4.06.2023 20:00 - +90 543 932 30 98: Ben de bu şekildeyim
+4.06.2023 20:11 - Eren: Kod tarafını herkesin yapması gerekiyor. Birine kodu yıkamayiz
+4.06.2023 20:12 - Eren: Diğer görevleri ekstra sorumluluk almak isteyen arkadaşlar alıyor. Her türlü gruptaki herkesin kod yazması gerekiyor yani.
+4.06.2023 20:12 - Eren: Zaten çok karmaşık bir şey istediklerini sanmıyorum. Basit front-end tasarım bekliyorlar
+4.06.2023 20:13 - Eren: Back-end kodlama istiyorlar mı bilmiyorum.
+4.06.2023 20:14 - Eren: Ben android kodlama üzerine daha önce çalıştım ve projelerim de var fakat kodlama konusundaki tüm yükü bir kişi sırtlanamaz
+4.06.2023 20:27 - +90 552 846 75 13: Zaten kod kısmını bir kişiye yıkmak doğru değil
+4.06.2023 20:27 - +90 552 846 75 13: Çok güveniyorum kod kısmına ama elimden geleni yaparım ben
+4.06.2023 20:27 - +90 552 846 75 13: *güvenmiyorum
+4.06.2023 20:32 - Eren: tamamdır. Şu anda Barcelona'dayım. 16 haziranda Türkiye'ye döneceğim
+4.06.2023 20:32 - Eren: o yüzden scrum master gibi diğer rollere maalesef aday değilim şu anda. Sürecin daha sağlıklı işlemesi açısından
+4.06.2023 20:34 - +90 552 846 75 13: 18 temmuz ürünün son teslim tarihi
+4.06.2023 20:35 - +90 552 846 75 13: o zaman  önce şunu düşünelim nasıl bir uygulama yapabiliriz kim hangi görevi üstlenebilir
+4.06.2023 20:35 - Eren: android kodlamada iyiyim sıkıntı
+4.06.2023 20:36 - +90 552 846 75 13: sıkıntı ?
+4.06.2023 20:36 - Eren: sıkıntı yok*,
+4.06.2023 20:36 - Eren: yarım kalmış
+4.06.2023 20:36 - +90 552 846 75 13: ha tamam
+4.06.2023 20:37 - +90 552 846 75 13: sadece android için hazırlayabilir miyiz ıos dahil olmak zorunda mı
+4.06.2023 20:37 - Eren: ios için amc cihaz yoksa kodlayamazsın
+4.06.2023 20:38 - +90 552 846 75 13: Bu mesaj silindi
+4.06.2023 20:38 - Eren: ya da emülatör kullanman lazım
+4.06.2023 20:38 - Eren: yoksa zor
+4.06.2023 20:38 - Eren: sanal cihaz yani
+4.06.2023 20:38 - Eren: onu da her bilgisayar kaldırmıyor maaelsef
+4.06.2023 20:38 - +90 552 846 75 13: hmm anladım zorunlu değildir umarım o zaman
+4.06.2023 20:38 - Eren: değildir
+4.06.2023 20:39 - +90 552 846 75 13: peki nasıl bir uygulama yapabiliriz onu konuşalım
+4.06.2023 20:39 - Eren: basit :d
+4.06.2023 20:40 - +90 552 846 75 13: ben çünkü çalışamaya başlayayım sınav haftası zaten bir boşluk olacak şimdi başlayarak o açığı tamamlarımm keni adıma
+4.06.2023 20:40 - Eren: basit bir fikir lazım yani
+4.06.2023 20:40 - Eren: bir ay süre var
+4.06.2023 20:40 - Eren: mühendislik gerektirmeyen şeyler olması lazım
+4.06.2023 20:40 - +90 552 846 75 13: doğru 1 ay var
+4.06.2023 20:42 - +90 552 846 75 13: o zaman basit bir proje fikri üretelim bugün yarın için bir saat belirleyelim o saatte bir araya gelip fikir alışverişi yaparız
+4.06.2023 20:43 - +90 552 846 75 13: uygun olan fikir üzerinden çalışmaya başlarız
+4.06.2023 20:43 - +90 552 846 75 13: uygun mudur size ?
+4.06.2023 20:44 - Eren: akşam saatleri uygun benim için
+4.06.2023 20:44 - Eren: ama bir arkadaş daha var
+4.06.2023 20:44 - +90 552 846 75 13: yarına kadar ulaşamazsa pek yapacak bir şey yok onun için
+4.06.2023 20:45 - Eren: hiç ışık görmüyorum yalan yok qgqgj
+4.06.2023 20:45 - +90 552 846 75 13: diğer arkadaşlar da fikir belirtirse daha sağlıklı bir grup oluşturabiliriz
+4.06.2023 20:45 - +90 552 846 75 13: @905439323098 @905535766610
+4.06.2023 21:10 - +90 553 576 66 10: Benim grup degistirmem daha iyi olur gibi gruba kod alanında sinem kadar katki saglayabilecek durumda degilim malesef. Belki bu gruba faydali bir arkadaş gelebilir
+4.06.2023 21:37 - Eren: Sen bilirsin tabi ama çok zorlanacağını düşünmüyorum
+4.06.2023 21:43 - +90 552 846 75 13: zorlandığımız yerde birbirimize yardım edebiliriz diye düşünüyorum
+4.06.2023 21:44 - Eren: Aynen öyle. Grup olmamızın amacı bu zaten
+4.06.2023 21:45 - +90 543 932 30 98: Ben de bu şekilde düşündüm arkadaşlar. Yarın içinde form paylaşılacakmış sanırım
+4.06.2023 21:45 - +90 552 846 75 13: aynen
+4.06.2023 21:46 - +90 552 846 75 13: hem aramızda android le alakalı proje yapmış biri var deneyimli daha hızlı bir ilerleme olur diye düşünüyorum ama yine de sen bilirsin tabii
+4.06.2023 21:47 - +90 552 846 75 13: anladım
+4.06.2023 23:42 - Eren: Bu durumda yarın toplantı yok galiba?
+4.06.2023 23:55 - +90 552 846 75 13: Sen takım değişikliği düşünüyor musun
+4.06.2023 23:55 - Eren: Şu an hayır
+4.06.2023 23:55 - Eren: 4 kişi yeterli bence
+4.06.2023 23:56 - +90 552 846 75 13: Zeynep ve Feyza gitmeyi düşünüyor zaten diğer üye yok 3 kişi kalacağız takıma yeni atama olur mu bilmiyorum
+4.06.2023 23:56 - +90 552 846 75 13: *2
+4.06.2023 23:57 - Eren: Takımı direkt kapatmayacaklarina göre bir çözüm bulurlar :)
+4.06.2023 23:58 - +90 552 846 75 13: Muhtemelen ben yine fikir düşüneceğim yarın buraya yazarım kalan sağlar bizimdir pek bir zaman yok açıkçası pek bir bilgim de yok üzerinde çalışmak isterim erkenden
+4.06.2023 23:59 - Eren: Tamamdır ben varım
+5.06.2023 00:00 - Eren: Daha sonrasına bakarız sıkıntı yok
+5.06.2023 00:00 - +90 552 846 75 13: Çok iyi
+5.06.2023 00:00 - +90 552 846 75 13: Aynen
+5.06.2023 00:00 - +90 552 846 75 13: O zaman yarın yine konuşuruz
+5.06.2023 00:00 - Eren: Tamamdır
+5.06.2023 00:01 - Eren: Sesli sohbetten konuşsak daha iyi olabilir aslında
+5.06.2023 00:01 - Eren: Discord vs kullanıyor musun ?
+5.06.2023 00:02 - +90 552 846 75 13: Evet kullanıyorum
+5.06.2023 00:03 - +90 552 846 75 13: Fakat şu an internetim yok açıkçası ayın 10 unda paketim yenilenecek o zamana kadar burdan iletişim kursak daha sonra orayı kullansak
+5.06.2023 00:03 - Eren: Tamamdır sıkıntı yok
+5.06.2023 15:13 - ‎~ zeynepahsen ayrıldı
+5.06.2023 15:38 - Eren: Galiba 7 Haziran'da tüm gruplar netleşecek
+5.06.2023 15:38 - Eren: gruba yeni birinin gelip gelmeyeceği de
+5.06.2023 16:37 - +90 552 846 75 13: Bekleyelim mi yoksa akşama fikir alışverişi yapıp haşlayalım mi
+5.06.2023 16:38 - Eren: Gruba fikir yazmaya yavaştan baslayabiliriz
+5.06.2023 17:11 - +90 552 846 75 13: Tamamdır
+5.06.2023 20:21 - +90 552 846 75 13: Bir şey diyeceğim yapılacaklar uygulaması yapsak çok mu basit kalır
+5.06.2023 20:40 - Eren: Orijinal bir fikir aramiyorlarsa sıkıntı yok
+5.06.2023 20:41 - Eren: Ama kazanmak için orijinal de olması lazım biraz
+5.06.2023 21:04 - +90 552 846 75 13: Yani kazanmak için orijinal bir fikir lazım olur
+5.06.2023 21:04 - +90 552 846 75 13: Aklıma da fikir gelmiyor
+5.06.2023 21:04 - Eren: Laptop önünde açıksa chatgpt'ye sorsana
+5.06.2023 21:04 - Eren: Ama manipüle etmen lazım
+5.06.2023 21:04 - +90 552 846 75 13: Araştırıyorum böyle yapabileceğim aktif olabileceğim bir bunu bulabildim
+5.06.2023 21:04 - Eren: Yapay zekayı
+5.06.2023 21:05 - +90 552 846 75 13: Laptop açık değil şu an ama az sonra bir çalışmam var o zaman bakarım
+5.06.2023 21:05 - Eren: Ben de bir yandan düşünüyorum
+5.06.2023 21:05 - +90 552 846 75 13: Düşünmek daha zor yav
+5.06.2023 21:06 - Eren: Jelibon yiyorum aklıma bir şey gelir birazdan
+5.06.2023 21:07 - Eren: Holiday expense manager tarzı bir şey olabilir
+5.06.2023 21:07 - Eren: Ama ona bir özellik katmamix kazim
+5.06.2023 21:07 - Eren: Lazım*
+5.06.2023 21:07 - Eren: Orijinal olmasını sağlayacak
+5.06.2023 21:09 - +90 552 846 75 13: Bu tam olarak ne oluyor acaba
+5.06.2023 21:09 - Eren: Tatil bütçe planlama aracı
+5.06.2023 21:09 - Eren: Başka konseptte de araç yapilabilir
+5.06.2023 21:17 - +90 552 846 75 13: Hmm anladım
+5.06.2023 23:00 - Eren: Bu arada
+5.06.2023 23:00 - Eren: numan bana ulaştı
+5.06.2023 23:02 - Eren: Bu arada şu anda başka grup değiştiren yok galiba değil mi?
+5.06.2023 23:04 - +90 552 846 75 13: Bana da yazmış da İnternetim olmadığı için geri dönüş yapamadım
+5.06.2023 23:04 - Eren: davet bağlantısını attım
+5.06.2023 23:05 - +90 552 846 75 13: O gruba dahil olacak mı yoksa değiştirecek mi
+5.06.2023 23:05 - +90 552 846 75 13: Çok iyi
+5.06.2023 23:05 - Eren: bilmiyorum. Grup değiştireceğim diye bir şey söylemedi
+5.06.2023 23:05 - Eren: zaten grup değiştirmek için yarın son
+5.06.2023 23:05 - +90 552 846 75 13: Hmm anladım
+5.06.2023 23:05 - +90 552 846 75 13: Bakalım neler olacak
+5.06.2023 23:06 - Eren: bizim gruba da birini getirecekler muhtemelen
+5.06.2023 23:06 - Eren: sonuçta başka grup değiştirmek isteyenler de var
+5.06.2023 23:06 - +90 552 846 75 13: Yüksek ihtimal
+5.06.2023 23:06 - Eren: bir tane daha tecrübesi olan arkadaş gelirse
+5.06.2023 23:06 - Eren: sağlam bir fikir bulursak kazanırız
+5.06.2023 23:06 - +90 552 846 75 13: Daha iyi olur
+5.06.2023 23:06 - +90 552 846 75 13: Umarım
+5.06.2023 23:06 - Eren: çok da bir şey yapamıyoruz benim analdığım
+5.06.2023 23:06 - Eren: başka API vs kullanamıyoruz
+5.06.2023 23:07 - Eren: o yüzden kimse inanılmaz bir şey yapamayacak zaten
+5.06.2023 23:07 - Eren: bu yüzden orijinal bir şey olması lazım
+5.06.2023 23:10 - +90 552 846 75 13: Orijinal bir fikir olacak çok zor olmayacak
+5.06.2023 23:10 - +90 552 846 75 13: Yani basit ve farklı olmak amacımız
+5.06.2023 23:10 - +90 552 846 75 13: De aklıma hiç fikir gelmiyor ya araştırıyorum ama
+5.06.2023 23:11 - Eren: tüm mobil uygulamalrda amaç budur normalde
+5.06.2023 23:11 - Eren: küçük bir startupsan
+5.06.2023 23:12 - Eren: getir gibi çok büyük kitlelere ulaşmayı amaçlamıyorsan basit ve orijinal her zaman çalışır
+5.06.2023 23:12 - Eren: muhteşem yüzyıl izliyordum Osmanlı temalı bir şey olabilir belki :D
+5.06.2023 23:15 - Eren: anı haritası önerdi
+5.06.2023 23:15 - Eren: chatgpt
+5.06.2023 23:15 - +90 552 846 75 13: Bakalım biz nasıl bir fikir bulacağız
+5.06.2023 23:15 - +90 552 846 75 13: Bu nasıl bir şey
+5.06.2023 23:16 - Eren: "Anılarımın Haritası": Bu uygulama, kullanıcıların ziyaret ettikleri yerleri, anılarıyla ilişkilendirerek harita üzerinde göstermelerini sağlar. Kullanıcılar, bir fotoğraf, açıklama veya not ekleyebilir ve bu noktaları haritada işaretleyebilir. Böylece, seyahat anıları, özel yerler ve önemli deneyimler harita üzerinde görselleştirilmiş bir şekilde saklanabilir. Ayrıca, kullanıcılar bu noktaları sosyal medya hesaplarıyla paylaşabilir veya arkadaşlarıyla paylaşmaları için davet edebilir. Uygulama aynı zamanda kullanıcılara, yakındaki ilginç noktaları keşfetme veya diğer kullanıcıların anılarını görüntüleme imkanı da sunabilir.
+5.06.2023 23:16 - Eren: direkt chatgpt'den fikri almak doğru olmaz tabi üzerine bir şey koymak lazım
+5.06.2023 23:16 - +90 552 846 75 13: Çok güzelmiş
+5.06.2023 23:16 - +90 552 846 75 13: Mantıken
+5.06.2023 23:16 - Eren: Dijital Bahçe": Bu uygulama, kullanıcılara kendi sanal bahçelerini tasarlama ve yönetme imkanı sunar. Kullanıcılar çeşitli bitkileri seçebilir, sulayabilir, gübreleyebilir ve bakımını yapabilir. Bitkiler büyüdükçe kullanıcılar puanlar ve ödüller kazanır. Ayrıca, kullanıcılar diğer kullanıcılarla bahçelerini paylaşabilir ve rekabetçi etkinliklere katılabilir.
+
+    "Hikaye Yolu": Bu uygulama, kullanıcıların kendi interaktif hikayelerini oluşturmasına olanak tanır. Kullanıcılar metin, resim, ses ve video gibi farklı içerik türlerini kullanarak benzersiz hikayeler oluşturabilir. Ayrıca, kullanıcılar hikayelerini paylaşabilir ve diğer kullanıcılarla etkileşime girebilir.
+
+    "Rastgele Tarif": Bu uygulama, kullanıcılara her gün rastgele bir yemek tarifi sunar. Kullanıcılar tarifi kaydedebilir, beğenebilir ve yorum yapabilir. Ayrıca, kullanıcılar kendi tariflerini paylaşabilir ve diğer kullanıcılarla tarif deneyimlerini paylaşabilir.
+
+    "İsim Bulucu": Bu uygulama, kullanıcılara bebeğe isim bulma konusunda yardımcı olur. Kullanıcılar cinsiyet, köken veya anlam gibi kriterlere göre filtreleme yapabilir ve potansiyel isimler arasında gezinebilir. Ayrıca, kullanıcılar favori isimlerini kaydedebilir ve paylaşabilir.
+
+Bu basit ve orijinal uygulama fikirleri, kullanıcıların farklı ilgi alanlarını ve ihtiyaçlarını karşılamak için tasarlanmıştır. Uygulamaları geliştirirken kullanıcı deneyimini ön planda tutmak ve kullanıcıların kolayca kullanabileceği bir arayüz sunmak önemlidir.
+5.06.2023 23:16 - +90 552 846 75 13: Söylemesi güzel de yapımı 😁
+5.06.2023 23:16 - Eren: yapımı da zor değil
+5.06.2023 23:17 - +90 552 846 75 13: Dijital bahçe daha çok unity için uygun olmaz mi
+5.06.2023 23:17 - Eren: oyun motoru gerektiren bir oyun değil
+5.06.2023 23:17 - Eren: flutter ile basit oyunlar yapabilirsin
+5.06.2023 23:18 - +90 552 846 75 13: Hmm anladım
+5.06.2023 23:18 - Eren: oyunlar için de bir flutter frameworku var ama çok bulaşmaya gerek yok bence
+5.06.2023 23:18 - Eren: isim bulucu fena değil
+5.06.2023 23:18 - +90 552 846 75 13: Bende hikaye yolu ve anılarımın haritasıni beğendim
+5.06.2023 23:18 - +90 552 846 75 13: Güzeller
+5.06.2023 23:18 - Eren: biraz daha spesifik fikirler istedim
+5.06.2023 23:19 - Eren: "Müzikal Yolculuk": Bu uygulama, kullanıcılara bir müzikal yolculuk deneyimi sunar. Kullanıcılar, belirli bir ruh haline veya ortama göre müzikal bir yolculuk seçer ve uygulama, o anki konumunuza dayalı olarak size özel bir müzik listesi oluşturur. Örneğin, uygulama sizi enerjik bir yolculuğa çıkarabilir veya huzurlu bir ortam yaratabilir. Ayrıca, kullanıcılar bu müzikal yolculukları kaydedebilir ve arkadaşlarıyla paylaşabilir.
+
+"Sınav Gözetmeni": Bu uygulama, öğrencilerin sınavlarında hile yapmalarını engellemek için kullanılır. Uygulama, öğrencilerin sınav sırasında akıllı telefonlarını kullanmalarını engellemek için telefonun kamerasını ve mikrofonunu kullanır. Ayrıca, uygulama öğrencilerin dikkat dağınıklığını izler ve şüpheli davranışları tespit eder. Bu şekilde, adil bir sınav ortamı sağlanır.
+
+"Uyku Düşesi": Bu uygulama, kullanıcıların daha iyi bir uyku deneyimi yaşamasına yardımcı olur. Uygulama, uyku düzenini takip eder ve uyku zamanına yaklaştığınızda size rahatlama ve meditasyon egzersizleri sunar. Ayrıca, uygulama beyaz gürültü veya doğal sesler gibi rahatlatıcı sesler de çalabilir. Kullanıcılar ayrıca, uykuya dalmalarına yardımcı olacak özel bir "uyku öyküsü" seçebilir.
+
+"Gezginlerin Hazinesi": Bu uygulama, kullanıcıların seyahatleri sırasında keşfettikleri yerleri ve deneyimleri kaydedebileceği bir dijital günlük sağlar. Kullanıcılar, fotoğraflar, notlar ve ses kayıtları ekleyebilir ve bu deneyimleri ilgi alanlarına göre etiketleyebilir. Ayrıca, kullanıcılar başkalarının deneyimlerini keşfedebilir ve seyahat önerileri alabilir
+5.06.2023 23:20 - Eren: "Osmanlı Rüya Tabiri": Bu uygulama, kullanıcılara Osmanlı dönemine ait rüya tabirlerini sunar. Kullanıcılar rüyalarını girerek, uygulama onlara rüyalarının anlamlarını Osmanlı dönemi tabirleriyle açıklar. Uygulama, kullanıcıların rüyalarını detaylı bir şekilde açıklamasına yardımcı olur ve belirli simgelerin, olayların veya durumların Osmanlı kültüründeki anlamlarını aktarır. Ayrıca, kullanıcılar rüya günlüğü tutabilir ve rüyalarını paylaşabilir.
+5.06.2023 23:21 - Eren: bu fikirler yeterli gibi
+5.06.2023 23:22 - +90 552 846 75 13: Ne zaman konuyu belirleriz
+5.06.2023 23:22 - Eren: gruplar netleşene kadar bence
+5.06.2023 23:22 - Eren: haziran
+5.06.2023 23:23 - +90 552 846 75 13: Tamamdır yine araştırmaya devam ederiz o zamana kadar belki daha farklı bir şey bulabiliriz
+5.06.2023 23:23 - Eren: evet bu temalar üzerine de gidebilir
+5.06.2023 23:23 - Eren: üzerine bir şeyler ekleyip
+5.06.2023 23:23 - +90 552 846 75 13: Aynen ekleyip çıkarabiliriz
+7.06.2023 11:44 - +90 543 932 30 98: Arkadaşlar hepinize başarılar dilerim umarım umduğunuz gibi bir süreç ilerler sizin için🙏🏻
+7.06.2023 11:44 - ‎~ Feyza ayrıldı
+7.06.2023 11:44 - Eren: Yeni gruplara baktım da
+7.06.2023 11:44 - Eren: Bizim grup aynı gözüküyor :D
+7.06.2023 11:47 - Eren: Galiba Feyza akademiyi bıraktı
+7.06.2023 11:47 - Eren: Doğru anladıysam
+7.06.2023 11:47 - Eren: Ve Zeynep de hala bizim grupya gözüküyor
+7.06.2023 13:01 - ‎+90 505 750 50 01 bu grubun davet bağlantısını kullanarak katıldı.
+7.06.2023 13:02 - +90 505 750 50 01: Merhabalar biraz geç gelebildim kusura bakmayın
+7.06.2023 13:59 - Eren: merhaba hoş geldin
+7.06.2023 15:41 - +90 552 846 75 13: Aynı görünüyorsa nasıl grup değiştirdiler o zaman
+7.06.2023 16:00 - Eren: ben de anlamadım
+7.06.2023 16:00 - Eren: f-63'e baktım ama
+7.06.2023 16:00 - Eren: gruptan çıkan di
+7.06.2023 16:00 - Eren: diğer kız o gruptaydı mesela
+7.06.2023 16:00 - Eren: bu sabah çıkan da bizim grupta gözüküyordu ama galiba o direkt akademiyi bıraktı
+7.06.2023 16:02 - Eren: bootcamp duyuru kanalında var
+7.06.2023 16:02 - Eren: finalize edilmiş hali
+7.06.2023 16:04 - +90 552 846 75 13: Hmm anladım
+7.06.2023 16:05 - Eren: zaten mazeretsiz çıkamıyorsun gruptan
+7.06.2023 16:05 - Eren: normalde
+7.06.2023 16:05 - Eren: toplantıda da belirttiler bunu zaten, ki çok da fazla grup değiştirebilen olmamış anladığım kadarıyla
+7.06.2023 16:06 - Eren: ama bu grupta devam etmek istemezlerse yapacak bir şey yok zaten, kodda daha fazla sorumluluk alırım bu durumda
+7.06.2023 16:06 - Eren: tabi Türkiye'ye dönmem lazım önce
+7.06.2023 16:12 - Eren: yukarıda yazdığımız fikirleri yavaştan değerlendirmeye başlayabiliriz
+7.06.2023 16:12 - Eren: akşama doğru
+7.06.2023 16:20 - +90 552 846 75 13: Tamamdır bana uyar
+7.06.2023 17:13 - +90 505 750 50 01: Knkm hangi ülkedesin
+7.06.2023 17:24 - Eren: İspanya
+7.06.2023 17:27 - +90 505 750 50 01: Çok iyi
+7.06.2023 17:27 - +90 505 750 50 01: Erasmusla falan mı gittin yoksa iş için mi
+7.06.2023 17:28 - Eren: Erasmusla barselonaya gittim
+7.06.2023 17:28 - Eren: Staj bir sonraki yaz
+7.06.2023 17:31 - +90 505 750 50 01: Umarım kalırsın
+7.06.2023 17:32 - Eren: Mezun olduktan sonra yüksek lisansa gideceğim
+7.06.2023 17:32 - Eren: Almanya ya da İspanya yine
+7.06.2023 17:32 - Eren: Okulu bitirmek için dönüyorum
+7.06.2023 17:32 - +90 505 750 50 01: Okulu bitir tabi ne okuyordun
+7.06.2023 17:33 - Eren: Elektrik elektronik + bilgisayar muh
+7.06.2023 17:33 - +90 505 750 50 01: Ama yine de orda birkaç yerle şimdiden görüşüp okul bitince gelip başlasam diye konuşada bilirsin
+7.06.2023 17:33 - +90 505 750 50 01: Hakkında hayırlısı inşallah istediğin gibi olur
+7.06.2023 17:33 - Eren: Umarım bakalım
+7.06.2023 17:33 - Eren: Maksimum 2 senem var zaten okulda
+7.06.2023 17:34 - +90 505 750 50 01: Helledilir o ya
+7.06.2023 17:34 - Eren: Harik harıl çalışacağım bir süre
+8.06.2023 15:34 - Eren: Akademiden grup hakkında bilgi istemişler. Ilettim
+8.06.2023 15:34 - Eren: Bir de rolleri belirlememiz lazım
+8.06.2023 16:11 - +90 505 750 50 01: Evet bunu ayarlamamız lazım
+9.06.2023 11:01 - Eren: Scrum master belirleyelim bence
+9.06.2023 13:19 - +90 552 846 75 13: <Medya dahil edilmedi>
+9.06.2023 13:20 - +90 552 846 75 13: Şöyle bir mesaj var İnternetim olmadığı için ben bakamıyorum siz bakar mısınız
+9.06.2023 13:20 - +90 552 846 75 13: Biz bu formu doldurduk mu
+9.06.2023 13:25 - Eren: okudum onu
+9.06.2023 13:25 - Eren: scrum master dolduracak o formu
+9.06.2023 13:28 - +90 505 750 50 01: Biz 3 kişi miyiz
+9.06.2023 13:54 - Eren: evet
+9.06.2023 14:11 - Eren: 12 hazirana kadar scrum master ve tüm diğer rolleri belirlememiz gerekiyor
+9.06.2023 14:11 - Eren: tam olarak kaç rol var bilmiyorum
+9.06.2023 14:11 - Eren: bilen var mı
+9.06.2023 14:21 - +90 552 846 75 13: Ha
+9.06.2023 14:22 - +90 552 846 75 13: Bir tane PDF vardı Paylaşmışlardı orda olması lazım
+9.06.2023 14:22 - +90 552 846 75 13: Aynen
+9.06.2023 18:27 - Eren: Kimse scrum master olmak istemiyor mu ? :d
+9.06.2023 18:36 - +90 505 750 50 01: Aboo
+9.06.2023 18:36 - +90 505 750 50 01: Ban olmayım ya
+9.06.2023 18:48 - +90 552 846 75 13: +1
+9.06.2023 18:49 - Eren: Evet kimse olmak istemiyor
+9.06.2023 18:52 - +90 505 750 50 01: 😂
+9.06.2023 18:52 - Eren: Bir arkadaş gruba geri donecekmis galiba
+9.06.2023 18:52 - Eren: Yani 4 kişiyiz
+9.06.2023 18:53 - Eren: O zaman şöyle yapalim
+9.06.2023 18:53 - Eren: Diğer arkadaş da gruba girdiğinde
+9.06.2023 18:53 - Eren: Oylama yapalım
+9.06.2023 18:54 - +90 552 846 75 13: Nasıl bir oylama
+9.06.2023 18:54 - Eren: Herkes aday birine basıyoruz :D
+9.06.2023 18:54 - Eren: Çünkü kimse istemiyor
+9.06.2023 18:55 - Eren: Herkes neden kendisinin olmaması gerektiğini de anlatır hshshdhdh
+9.06.2023 18:55 - +90 552 846 75 13: Gruba kim gelecek
+9.06.2023 18:55 - Eren: Feyza
+9.06.2023 18:55 - +90 552 846 75 13: Millet seçilmek için uğraşıyor bizim çabamıza bak mükemmel 😂😂
+9.06.2023 18:56 - Eren: Pdfi bulursanız atabilir misiniz bulamadım ben ya
+9.06.2023 18:57 - +90 552 846 75 13: Tamamdır
+11.06.2023 15:59 - Eren: arkadaşlar Feyza cevap vermedi
+11.06.2023 15:59 - Eren: o yüzden rolleri beliğrleyebiliriz bence
+11.06.2023 15:59 - Eren: Herkes neden scrum master olmaması gerektiğini kısaca yazabilir mi :D
+11.06.2023 16:04 - +90 552 846 75 13: scrum master ben olmamalıyım çünkü uyum ve durum kontrollerini sağlamak ile görev yapıyor ve akademide verilebilecek dosyaları scrum master dolduruyor şuan yurttayım ve yurdun wifi si çekmiyor sürekli bir internet erişimim yok maalesef onun harici staj zamanıma az kaldı uğraşabileceğim max şey bana verilen kısmın kodlarını tamamlamak olacaktır staj zamanıma denk geleside cabası tabii hali hazırda üzerinde çalıştığım bir tubitak projem de mevcut ve onunla da ilgileniyorum bu nedenle scrum master olarak tam takibi sağlayamam
+11.06.2023 16:05 - Eren: ben olmamalıyım, çünkü yurt dışındayım :d
+11.06.2023 16:06 - Eren: ayrıca iki bölüm + akademi + bitirme teziyle uğraşıyorum
+11.06.2023 16:06 - Eren: 16 haziranda Türkiye'ye döneceğim fakat elbette döndüğüm anda direkt görev başına geçemeyeceğim
+11.06.2023 16:20 - +90 505 750 50 01: Ben olmamalıyım çünkü sürekli olarak iş görüşmelerine gidiyorum. Bir yer olacak gibi ve yoğun bi tempoya sahip bir şirket. Onun dışında ise CCNA kursum başlayacak ona da zaman ayırmam gerekiyor. Çok sıkışık bi takvim içerisindeyim şu aralar
+11.06.2023 16:21 - Eren: hangi firma
+11.06.2023 16:22 - +90 505 750 50 01: Ankara’da bir fabrika
+11.06.2023 16:22 - +90 505 750 50 01: Yazılımcı olarak değil bilgi işlem olarak giricem girersem
+11.06.2023 16:23 - +90 505 750 50 01: Benim dışımda sadece 1 kişi var o da müdür o yüzden yoğun olacak
+11.06.2023 16:23 - +90 505 750 50 01: 670 kullanıcı var yarısına ben bakacağı
+11.06.2023 16:23 - Eren: anladım
+12.06.2023 02:31 - Eren: diğer rolleri de belirlememiz gerek
+12.06.2023 02:32 - Eren: ve galiba tarihi kaçırdık
+12.06.2023 02:32 - Eren: eğer 12 haziran gecesi son değilse
+12.06.2023 08:25 - +90 552 846 75 13: https://docs.google.com/forms/d/e/1FAIpQLScrr6J9rpZuM98my_twi1fH7F7StzL23qAF8YoWVGhvOk0qhg/viewform
+12.06.2023 08:25 - +90 552 846 75 13: Bu gece son herhalde
+12.06.2023 11:47 - +90 505 750 50 01: Kimi yapıcaz
+12.06.2023 11:48 - Eren: scrum master kriterlerini bölebilirsiniz tarzı bir şey dediler
+12.06.2023 11:49 - Eren: öneri olarak
+12.06.2023 11:54 - +90 552 846 75 13: Göstermelik bir isim verelim zaten 3 kişiyiz hepimiz aynı şeyi yapacak ben olmuyorum çünkü internet erişimim hep yok dediğim gibi ikinizden biri olsun gerekli belgeleri yine beraber doldururuz <Bu mesaj düzenlendi>
+12.06.2023 16:47 - Eren: Onda sıkıntı yok da
+12.06.2023 16:47 - Eren: Bende asıl sıkıntı diğer roller
+12.06.2023 16:48 - Eren: Bence*
+12.06.2023 16:53 - +90 552 846 75 13: Rolleri verince illa yapmamiz mi lazım göstermelik isim yazsak olmaz mı
+12.06.2023 16:56 - Eren: Ya bir şekilde hallederiz ama yine de aşağı yukarı roller belli olsa fena olmaz
+12.06.2023 16:58 - Eren: Şu anda bende bilgisayar yok. Madrid'e gitmem gerekti bir gunlugune
+12.06.2023 19:04 - +90 505 750 50 01: Bende şu anda şehir dışındayım maalesef
+12.06.2023 19:04 - +90 505 750 50 01: Bugün son ise
+12.06.2023 19:05 - +90 505 750 50 01: Bi isim verelim ama yardımlaşarak yapalım bütün iş bölümünü aynı Sinem’in söylediği gibi
+12.06.2023 19:07 - Eren: Birinin repoetery açması lazım
+12.06.2023 21:37 - Eren: Su an kimsede bilgisayar yok mu
+12.06.2023 21:37 - Eren: Repostary linki istiyorlar formda
+12.06.2023 22:36 - Eren: Arkadaşlar biri Product Owner olursa şu an sıkıntı yok
+12.06.2023 22:46 - +90 552 846 75 13: Benim bilgisayar şu an bende değil
+12.06.2023 22:46 - +90 552 846 75 13: Çok az bir zaman kaldı
+12.06.2023 22:46 - +90 552 846 75 13: Sucrum master ben olayım o zaman umarım çok görevi yoktur
+12.06.2023 22:47 - +90 552 846 75 13: Siz de kendinize bir görev belirleyin yazayım geç oldu
+12.06.2023 22:47 - Eren: Hallettim ben
+12.06.2023 22:47 - +90 552 846 75 13: Doldurdun mu formu
+12.06.2023 22:47 - Eren: Evet
+12.06.2023 22:47 - +90 552 846 75 13: Kime hangi görev
+12.06.2023 22:48 - Eren: Scrum master ban
+12.06.2023 22:48 - Eren: Product Owner sen
+12.06.2023 22:48 - Eren: Developer Numan
+12.06.2023 22:48 - +90 552 846 75 13: İyi yapmışsın
+12.06.2023 22:49 - +90 552 846 75 13: Ne zaman çalışmaya başlıyoruz daha proje belli değil ama
+12.06.2023 22:51 - +90 505 750 50 01: Tamamdır
+12.06.2023 22:54 - +90 505 750 50 01: Bu proje sürecinde eğitimlere ulaşabiliyoruz değil mi
+12.06.2023 22:54 - +90 505 750 50 01: Kapatmıyorlar
+12.06.2023 22:54 - +90 552 846 75 13: Evet ulaşabilirsin
+16.06.2023 22:18 - Eren: İlk sprintte uygulamayla ilgili bir iki görüntü atmamız gerekiyor
+16.06.2023 22:19 - Eren: En azından ekran görüntüsüyle ilgili
+16.06.2023 23:03 - +90 552 846 75 13: Sınav haftasındayım çalışmadan uzaklaştım biraz kusura bakmayın
+17.06.2023 07:15 - +90 505 750 50 01: Ne zamana kadar süremiz var
+17.06.2023 07:15 - +90 505 750 50 01: Daha proje bile belli değil 😂
+17.06.2023 14:56 - Eren: Yukarıya bayağı bi konu attım aslında
+17.06.2023 14:56 - Eren: Tartışıp görüş bildirin diye
+17.06.2023 14:56 - Eren: Mesajları sildim
+17.06.2023 14:56 - Eren: O yüzden şu an bende gözükmüyor
+17.06.2023 16:39 - +90 505 750 50 01: Birazdan bakayım bi o zaman
+17.06.2023 17:07 - +90 505 750 50 01: Bende yok öyle bi mesaj
+17.06.2023 17:07 - +90 505 750 50 01: Ben geç girdim ya gruba biraz o yüzden olabilir belki ben girmeden yazmışsındır
+17.06.2023 17:08 - Eren: Olabilir @905528467513 mesajlar sende varsa sabitleyebilir misin
+17.06.2023 17:10 - +90 552 846 75 13: "Anılarımın Haritası": Bu uygulama, kullanıcıların ziyaret ettikleri yerleri, anılarıyla ilişkilendirerek harita üzerinde göstermelerini sağlar. Kullanıcılar, bir fotoğraf, açıklama veya not ekleyebilir ve bu noktaları haritada işaretleyebilir. Böylece, seyahat anıları, özel yerler ve önemli deneyimler harita üzerinde görselleştirilmiş bir şekilde saklanabilir. Ayrıca, kullanıcılar bu noktaları sosyal medya hesaplarıyla paylaşabilir veya arkadaşlarıyla paylaşmaları için davet edebilir. Uygulama aynı zamanda kullanıcılara, yakındaki ilginç noktaları keşfetme veya diğer kullanıcıların anılarını görüntüleme imkanı da sunabilir.
+17.06.2023 17:10 - +90 552 846 75 13: Dijital Bahçe": Bu uygulama, kullanıcılara kendi sanal bahçelerini tasarlama ve yönetme imkanı sunar. Kullanıcılar çeşitli bitkileri seçebilir, sulayabilir, gübreleyebilir ve bakımını yapabilir. Bitkiler büyüdükçe kullanıcılar puanlar ve ödüller kazanır. Ayrıca, kullanıcılar diğer kullanıcılarla bahçelerini paylaşabilir ve rekabetçi etkinliklere katılabilir.
+
+    "Hikaye Yolu": Bu uygulama, kullanıcıların kendi interaktif hikayelerini oluşturmasına olanak tanır. Kullanıcılar metin, resim, ses ve video gibi farklı içerik türlerini kullanarak benzersiz hikayeler oluşturabilir. Ayrıca, kullanıcılar hikayelerini paylaşabilir ve diğer kullanıcılarla etkileşime girebilir.
+
+    "Rastgele Tarif": Bu uygulama, kullanıcılara her gün rastgele bir yemek tarifi sunar. Kullanıcılar tarifi kaydedebilir, beğenebilir ve yorum yapabilir. Ayrıca, kullanıcılar kendi tariflerini paylaşabilir ve diğer kullanıcılarla tarif deneyimlerini paylaşabilir.
+
+    "İsim Bulucu": Bu uygulama, kullanıcılara bebeğe isim bulma konusunda yardımcı olur. Kullanıcılar cinsiyet, köken veya anlam gibi kriterlere göre filtreleme yapabilir ve potansiyel isimler arasında gezinebilir. Ayrıca, kullanıcılar favori isimlerini kaydedebilir ve paylaşabilir.
+
+Bu basit ve orijinal uygulama fikirleri, kullanıcıların farklı ilgi alanlarını ve ihtiyaçlarını karşılamak için tasarlanmıştır. Uygulamaları geliştirirken kullanıcı deneyimini ön planda tutmak ve kullanıcıların kolayca kullanabileceği bir arayüz sunmak önemlidir.
+
+"Müzikal Yolculuk": Bu uygulama, kullanıcılara bir müzikal yolculuk deneyimi sunar. Kullanıcılar, belirli bir ruh haline veya ortama göre müzikal bir yolculuk seçer ve uygulama, o anki konumunuza dayalı olarak size özel bir müzik listesi oluşturur. Örneğin, uygulama sizi enerjik bir yolculuğa çıkarabilir veya huzurlu bir ortam yaratabilir. Ayrıca, kullanıcılar bu müzikal yolculukları kaydedebilir ve arkadaşlarıyla paylaşabilir.
+
+"Sınav Gözetmeni": Bu uygulama, öğrencilerin sınavlarında hile yapmalarını engellemek için kullanılır. Uygulama, öğrencilerin sınav sırasında akıllı telefonlarını kullanmalarını engellemek için telefonun kamerasını ve mikrofonunu kullanır. Ayrıca, uygulama öğrencilerin dikkat dağınıklığını izler ve şüpheli davranışları tespit eder. Bu şekilde, adil bir sınav ortamı sağlanır.
+
+"Uyku Düşesi": Bu uygulama, kullanıcıların daha iyi bir uyku deneyimi yaşamasına yardımcı olur. Uygulama, uyku düzenini takip eder ve uyku zamanına yaklaştığınızda size rahatlama ve meditasyon egzersizleri sunar. Ayrıca, uygulama beyaz gürültü veya doğal sesler gibi rahatlatıcı sesler de çalabilir. Kullanıcılar ayrıca, uykuya dalmalarına yardımcı olacak özel bir "uyku öyküsü" seçebilir.
+
+"Gezginlerin Hazinesi": Bu uygulama, kullanıcıların seyahatleri sırasında keşfettikleri yerleri ve deneyimleri kaydedebileceği bir dijital günlük sağlar. Kullanıcılar, fotoğraflar, notlar ve ses kayıtları ekleyebilir ve bu deneyimleri ilgi alanlarına göre etiketleyebilir. Ayrıca, kullanıcılar başkalarının deneyimlerini keşfedebilir ve seyahat önerileri alabilir
+
+"Osmanlı Rüya Tabiri": Bu uygulama, kullanıcılara Osmanlı dönemine ait rüya tabirlerini sunar. Kullanıcılar rüyalarını girerek, uygulama onlara rüyalarının anlamlarını Osmanlı dönemi tabirleriyle açıklar. Uygulama, kullanıcıların rüyalarını detaylı bir şekilde açıklamasına yardımcı olur ve belirli simgelerin, olayların veya durumların Osmanlı kültüründeki anlamlarını aktarır. Ayrıca, kullanıcılar rüya günlüğü tutabilir ve rüyalarını paylaşabilir.
+17.06.2023 17:10 - +90 552 846 75 13: Bu mesaj silindi
+17.06.2023 19:22 - Eren: Bunların arasından sizin düşündüğünüz bir tanesi var mı
+17.06.2023 21:38 - +90 552 846 75 13: Ben bunu  düşünüyorum
+17.06.2023 21:39 - Eren: tamamdır bana da uyar bu
+17.06.2023 21:39 - +90 552 846 75 13: Çok zor olmaz diye düşünüyorum
+17.06.2023 21:39 - Eren: @905057505001  senin için de uygunsa üzerine bir şeyler daha eklemeye çalışabiliriz
+17.06.2023 21:39 - +90 552 846 75 13: En son teslim ne zaman
+17.06.2023 21:39 - Eren: harita üzerinde göstermek zor
+17.06.2023 21:39 - Eren: api kullanmamız gerek
+17.06.2023 21:39 - +90 552 846 75 13: Onu çıkarız
+17.06.2023 21:40 - Eren: o zaman yapılabilir
+17.06.2023 21:40 - Eren: son tarih tam olarak ne zaman bilmiyorum, ilk sprint ne zaman bitiyor takvimde yazıyordu
+17.06.2023 21:40 - Eren: şu anlık sadece tasarım örneği istiyorlar, kod vs istemiyorlar doğru anladıysam
+17.06.2023 21:40 - Eren: tasarımda iyi olan biri figma üzerinden tasarım yapmaya başlayabilir
+17.06.2023 21:41 - Eren: en azından elimizde ana ekran, profil gibi bir iki şey olsun
+17.06.2023 21:41 - +90 552 846 75 13: Figmayı duydum ama isim olarak biliyorum başka bir bilgim yok
+17.06.2023 21:41 - Eren: kod vs yok sadece butonları falan sürüklüyorsun
+17.06.2023 21:42 - Eren: burada buton olsun, burada resim falan
+17.06.2023 21:42 - Eren: figmada tasarımı yaptıktan sonra onu flutter ile kodlamaya geçtiğin zaman iş çok hızlanıyor
+17.06.2023 21:42 - Eren: figma tasarımı yapabilirseniz ben de yavaştan kodu yazmaya başlarım
+17.06.2023 21:42 - +90 552 846 75 13: Hmm sizin sınavlar falan var mı bu sıralar
+17.06.2023 21:42 - Eren: ben dün gece ikide Türkiye'ye döndüm
+17.06.2023 21:43 - Eren: evrak işlerim vs var
+17.06.2023 21:43 - Eren: sadec
+17.06.2023 21:43 - Eren: e
+17.06.2023 21:43 - +90 552 846 75 13: Bir kursu falan varsa hızlandırılmış bir şekilde izleyip başlarım ben
+17.06.2023 21:43 - +90 552 846 75 13: Hmm iyiymiş benim bu hafta sınav haftası bu hafta biterse başlarım ben
+17.06.2023 21:44 - Eren: figmada kursluk bir şey yok
+17.06.2023 21:44 - Eren: basit bir araç zaten
+17.06.2023 21:44 - Eren: anlarsın açınca
+17.06.2023 21:44 - Eren: bir şey yapmak istersen how to aramalarıyla youtube'da arat sadece
+17.06.2023 21:45 - +90 552 846 75 13: Bilgisayara indiriyorum sonra başlıyorum o zaman
+17.06.2023 21:46 - Eren: tarayıcıda da açılıyor olması lazım
+17.06.2023 21:46 - Eren: eskiden gerek yoktu indirmeye
+17.06.2023 21:46 - +90 552 846 75 13: Hmm iyiymiş
+17.06.2023 21:46 - +90 552 846 75 13: Koordineli çalışmak lazım
+17.06.2023 21:47 - +90 552 846 75 13: Çok zaman kalmadı sanırım
+17.06.2023 21:48 - Eren: ilk sprint ne zaman bitiyor bilmiyorum
+17.06.2023 21:48 - Eren: müsaitsen bakabilir misin? Şu an önemli bir şeyle upraşıyorum da
+17.06.2023 21:50 - +90 552 846 75 13: Bende ona bakıyordum
+17.06.2023 21:50 - +90 552 846 75 13: Bulayım
+17.06.2023 21:51 - +90 552 846 75 13: <Medya dahil edilmedi>
+17.06.2023 21:51 - +90 552 846 75 13: 19 Haziran
+17.06.2023 21:51 - +90 552 846 75 13: 2 günümüz var
+17.06.2023 21:52 - +90 552 846 75 13: Repo oluşturduk değil mi
+17.06.2023 21:55 - +90 552 846 75 13: <Medya dahil edilmedi>
+17.06.2023 21:56 - +90 552 846 75 13: Böyle bir şey kullanacak mıyız
+17.06.2023 21:56 - Eren: repoyu hallettim ben
+17.06.2023 21:56 - +90 552 846 75 13: Tamamdır
+17.06.2023 21:56 - Eren: figmayla aynı işi görüyor muhtemelen
+17.06.2023 21:56 - +90 552 846 75 13: Figma bilinen bir şey ondan ilerleriz o zaman
+17.06.2023 21:56 - Eren: uı tasarım kiti ,
+17.06.2023 21:57 - Eren: figma oldukça kolay
+17.06.2023 21:57 - +90 552 846 75 13: Evet baktım biraz tasarım için kullanılıyor
+17.06.2023 21:57 - +90 552 846 75 13: Tamamdır figma ile yaparız
+18.06.2023 00:20 - +90 505 750 50 01: Uyar bana bakamadım kusura bakmayın
+18.06.2023 00:20 - +90 505 750 50 01: Nasıl bi Erkan yapalım peki
+18.06.2023 00:20 - +90 505 750 50 01: Bu mesaj silindi
+18.06.2023 00:21 - +90 505 750 50 01: Kaç sayfa olsun
+18.06.2023 00:21 - +90 505 750 50 01: Figma nasıl bilmiyorum aslında bi site vardı ancak adını unuttum şimdi ya
+18.06.2023 00:22 - +90 505 750 50 01: Okulda başlangıç projelerimizi yapmıştık biz
+18.06.2023 00:22 - +90 505 750 50 01: Direkt sürükle bırak şeklindeydi
+18.06.2023 00:22 - +90 505 750 50 01: Anlattıklarınızdan anladığım figma da aynı şekilde
+18.06.2023 00:22 - Eren: UI tasarım uygulaması
+18.06.2023 00:22 - Eren: Aynı mantık
+18.06.2023 00:22 - +90 505 750 50 01: Tamamdır
+18.06.2023 00:23 - Eren: Herhangi kullanışlı yapacak bir özellik lazım
+18.06.2023 00:23 - Eren: Farklı olmasını sağlayacak
+18.06.2023 00:23 - Eren: Ve basit de olması lazım
+18.06.2023 00:24 - +90 505 750 50 01: Gidilen yerlere göre
+18.06.2023 00:24 - +90 505 750 50 01: Öneri oluşturabilir
+18.06.2023 00:24 - +90 505 750 50 01: Burayı da beğenebilirsiniz gibisinden
+18.06.2023 00:40 - Eren: olabilir evet
+18.06.2023 00:40 - Eren: biraz daha spesifik bir örnek varsa aklınızda o da güzel olur
+18.06.2023 00:40 - Eren: bir diğer konu da resimleri nereden çekeceğiz
+18.06.2023 00:40 - Eren: örnek görseller koyacağız galiba sadece
+18.06.2023 00:40 - +90 505 750 50 01: Yarın bu sayfa örneklerini yapalım
+18.06.2023 00:40 - +90 505 750 50 01: Ben yapmaya çalışırım
+18.06.2023 00:40 - +90 505 750 50 01: Biraz bakayım öğreneyim
+18.06.2023 00:41 - +90 505 750 50 01: Sinem sınavlarına çalışsın
+18.06.2023 00:41 - +90 505 750 50 01: Takıldığım yerde sorarım
+18.06.2023 00:41 - +90 505 750 50 01: Fikir alışverişi yaparız zaten şöyle olsun böyle olsun diye
+18.06.2023 00:50 - Eren: Çok vakit almaz zaten figma
+18.06.2023 00:50 - Eren: Basit tasarım örnekleri lazım sadece
+18.06.2023 00:51 - Eren: Anasayfa profil ve bir ek sayfa şimdilik yeterli
+18.06.2023 00:51 - +90 505 750 50 01: Tamam ben yarın
+18.06.2023 00:51 - +90 505 750 50 01: 2 gibi falan inşallah
+18.06.2023 00:51 - +90 505 750 50 01: İlk taslakları atarım
+18.06.2023 15:37 - +90 505 750 50 01: <Medya dahil edilmedi>
+18.06.2023 15:37 - +90 505 750 50 01: böyle iyi mi
+18.06.2023 15:42 - +90 505 750 50 01: @905528467513
+18.06.2023 15:42 - +90 505 750 50 01: Eren ile bilgi alışverişi yapabildim ama senin istediğin şurası şöyle olsun dediğin bir yer var mı
+18.06.2023 15:47 - +90 552 846 75 13: Favori yerinde gezdiği yerler için not falan alabiliyor ya o kısım için yer olacak mı ana sayfa da
+18.06.2023 15:47 - +90 552 846 75 13: Yada ikinci sayfa da
+18.06.2023 15:49 - +90 505 750 50 01: üstüne tıkladığında açılacak şekilde düşündüm ben
+18.06.2023 15:49 - +90 505 750 50 01: açılacak derken
+18.06.2023 15:49 - +90 505 750 50 01: genişliycek
+18.06.2023 15:49 - +90 552 846 75 13: He anladım <Bu mesaj düzenlendi>
+18.06.2023 15:49 - +90 505 750 50 01: ve aldığın notlar konumu vb özellikler gözükecek
+18.06.2023 15:50 - +90 552 846 75 13: Konum zor olur dedi eren
+18.06.2023 15:50 - +90 552 846 75 13: Onu eklenmeyeceğiz diye biliyorum
+18.06.2023 15:50 - Eren: konumu haritada göstermek zor olur
+18.06.2023 15:50 - Eren: api kullanmamız gerek
+18.06.2023 15:50 - Eren: vakit kalırsa yaparız
+18.06.2023 15:51 - +90 505 750 50 01: tamamdır
+18.06.2023 15:51 - +90 552 846 75 13: Başka eklenilecek bir şey aklıma gelmiyor şu an
+18.06.2023 15:51 - +90 505 750 50 01: Son sayfayı da yapıp hepsini bir kez daha atacağım
+18.06.2023 15:52 - +90 552 846 75 13: Tamamdır
+18.06.2023 15:52 - +90 552 846 75 13: Kusura bakma sana yardım edemiyorum
+18.06.2023 15:54 - +90 505 750 50 01: ne demek olur mu öyle şey
+18.06.2023 15:55 - +90 505 750 50 01: bu örneğe koymak için
+18.06.2023 15:55 - +90 505 750 50 01: kendi fotoğraflarımız daha iyi olur mu ki
+18.06.2023 15:56 - +90 552 846 75 13: Yani daha iyi olabilir
+18.06.2023 15:56 - +90 505 750 50 01: arama sayfası için en azından
+18.06.2023 15:56 - +90 505 750 50 01: birer tane atabilir misiniz
+18.06.2023 15:57 - +90 552 846 75 13: Hepimizden bir görsel mi
+18.06.2023 15:57 - +90 505 750 50 01: evet
+18.06.2023 15:58 - +90 552 846 75 13: Tamamdır
+18.06.2023 16:01 - Eren: çok fark edeceğini sanmıyorum şu anlık
+18.06.2023 16:01 - Eren: ama koymak istersen koyabilirsin tabi
+18.06.2023 16:02 - +90 505 750 50 01: daha etkili olablir diye düşünmüştüm
+18.06.2023 16:03 - Eren: tamam olur. Whatsapp profil resmimi koyabilirsin benim
+18.06.2023 16:03 - Eren: herkese açık olması lazım
+18.06.2023 16:03 - +90 505 750 50 01: tamamdır
+18.06.2023 16:03 - +90 505 750 50 01: evet
+18.06.2023 16:03 - +90 552 846 75 13: Dur bende herkese açık yapayım ordan al
+18.06.2023 16:04 - +90 505 750 50 01: tamam
+18.06.2023 16:05 - Eren: discorddan sesli konuşmak için müsait olduğunuz bir zaman var mı
+18.06.2023 16:05 - Eren: bugün hariç
+18.06.2023 16:05 - +90 552 846 75 13: Bu hafta gündüz müsait olmam ama akşam müsait olurum
+18.06.2023 16:06 - Eren: Akşam daha iyi olur zaten
+18.06.2023 16:07 - +90 552 846 75 13: Tamamdır günü ve saati belirleriz konuşuruz
+18.06.2023 16:08 - +90 505 750 50 01: tamamdır bana da fark etmez
+18.06.2023 16:10 - +90 505 750 50 01: Eren soyadın ne acaba
+18.06.2023 16:11 - +90 552 846 75 13: Bekar di galiba
+18.06.2023 16:19 - Eren: evet
+18.06.2023 16:19 - Eren: bekar
+18.06.2023 16:20 - +90 505 750 50 01: <Medya dahil edilmedi>
+18.06.2023 16:20 - +90 505 750 50 01: böyle iyi mi
+18.06.2023 16:20 - +90 505 750 50 01: sinemin fotoğrafı gözükmüyor bende hala onu da ekliycem
+18.06.2023 16:20 - Eren: Firdevse sorsaydık ama onu
+18.06.2023 16:20 - +90 505 750 50 01: sordum ben
+18.06.2023 16:20 - Eren: tamam o zaman
+18.06.2023 16:21 - +90 505 750 50 01: <Medya dahil edilmedi>
+18.06.2023 16:21 - +90 505 750 50 01: <Medya dahil edilmedi>
+18.06.2023 16:21 - +90 505 750 50 01: <Medya dahil edilmedi>
+18.06.2023 16:22 - +90 505 750 50 01: Böyle iyi mi
+18.06.2023 16:22 - +90 552 846 75 13: Güzel olmuş
+18.06.2023 16:23 - +90 505 750 50 01: eklememi istediğiniz başka bir şey var mı
+18.06.2023 16:24 - +90 552 846 75 13: Benim yok
+18.06.2023 16:24 - +90 505 750 50 01: tamamdır
+18.06.2023 16:24 - +90 505 750 50 01: ama senin fotoğrafın hala gözükmüyor bende
+18.06.2023 16:24 - +90 552 846 75 13: Herkese yaptım ama dur atayım
+18.06.2023 16:24 - +90 505 750 50 01: istemiyorsan eğer temsili bir şey koyabilirim
+18.06.2023 16:26 - +90 505 750 50 01: böyle oldu
+18.06.2023 16:26 - +90 505 750 50 01: <Medya dahil edilmedi>
+18.06.2023 16:27 - +90 505 750 50 01: bu tasarımları neyde birleştiricez
+19.06.2023 00:33 - Eren: arkadaşlar merhaba
+19.06.2023 00:33 - Eren: https://github.com/ernbkar/OyunveUygulamaAkademisi/tree/main
+19.06.2023 00:33 - Eren: buradaki readme dosyasına ve Project management dosyasına lütfen bakın
+19.06.2023 00:33 - Eren: eksik, yanlış bulduğunuz bir şey varsa yarın düzeltiriz
+19.06.2023 00:34 - Eren: özellikle readme dosyasıno dikkatli okuyun lütfen
+19.06.2023 00:38 - Eren: isteyene yetki verebilirim
+19.06.2023 00:55 - +90 505 750 50 01: Bence güzel olmuş eline sağlık
+19.06.2023 00:56 - +90 505 750 50 01: Siz flutterda hangi seviyedesiniz
+19.06.2023 00:59 - Eren: tek başıma uygulama çıkardığım oldu
+19.06.2023 01:00 - +90 505 750 50 01: Hocam sen baya iyisin dksnsnsn
+19.06.2023 01:00 - +90 505 750 50 01: Ben tekrar yapmaya başladım
+19.06.2023 01:00 - +90 505 750 50 01: Kafamı karıştırıyor ya
+19.06.2023 01:00 - +90 505 750 50 01: 3-4 güne falan biter herhalde tekrarım
+19.06.2023 13:21 - Eren: Arkadaşlar ilk sprintten yedi puan aldık
+19.06.2023 13:21 - Eren: Eve geçince sprint notlarını tamamlayacağız
+19.06.2023 13:21 - Eren: Böylece 8 puan alacağız
+19.06.2023 13:21 - Eren: Yani tam puan
+19.06.2023 13:32 - +90 552 846 75 13: Tamamdır
+19.06.2023 14:26 - Eren: arkadaşlar tekrar merhaba, güncel halini firdevse ilettim muhtemelen bu sprimnmt için tam puan alacağız
+19.06.2023 14:26 - Eren: bizim için harika bir başlangıç
+19.06.2023 14:26 - Eren: fakat bundan sonra Daily scurmları her gün düzenli olarak yapmalı ve artık adım atmaya bşalamalıyız
+19.06.2023 14:26 - Eren: kod yazmaya vakti olmayan biri, figma üzerinden tasarımları yapabilir, mobil üzerinden de UI tasarım yapmanın mümkün olduğu bir program varsa onu da kullanabilirsiniz
+19.06.2023 14:27 - Eren: Bu görev için şimdilik Numanı düşündüm, çünkü bir süre sonra bilgisayara erişimi olmayacak
+19.06.2023 14:27 - Eren: fakat bilgisayara erişimin şu anda varsa, kod kısmında yardımcı olursan, b
+19.06.2023 14:28 - Eren: bilgisayara erişimin gidene kadar
+19.06.2023 14:28 - Eren: güzel olur
+19.06.2023 14:28 - Eren: Bunun dışında kod kısmında bana yardımcı olacak bir arkadaşa ihtiyacım var
+19.06.2023 14:31 - +90 552 846 75 13: Sınavlarım Perşembe günü akşam bitiyor cuma gününden itibaren payıma ne düşerse ben yaparım
+19.06.2023 14:36 - Eren: Tamamdır
+19.06.2023 14:37 - Eren: daily scurmlara katıl sadece şimdilik
+19.06.2023 14:37 - Eren: bir de basit front-end tasarım vs gerekirse sana yönlendirebiliriz
+19.06.2023 14:37 - Eren: Koda şimdilik Numanla gireriz
+19.06.2023 14:40 - +90 552 846 75 13: Tamamdır
+19.06.2023 14:40 - +90 552 846 75 13: Olur
+19.06.2023 14:56 - +90 505 750 50 01: Tamamdır
+19.06.2023 14:57 - +90 505 750 50 01: Ne ile başlayacağız
+19.06.2023 15:51 - Eren: yaptığın ana sayfaya benzer bir şey yapmakla başlayabiliriz
+19.06.2023 15:51 - Eren: ya da temel bir şablon oluşturruz
+19.06.2023 15:51 - Eren: ama sesli bir toplantı yapsak iyi olur
+19.06.2023 15:51 - Eren: ne zaman müsaitsiniz ?
+19.06.2023 15:54 - +90 552 846 75 13: Ben bugün müsaitim yarın da müsaitim
+19.06.2023 15:57 - Eren: Saat kaç gibi bugün
+19.06.2023 15:59 - +90 552 846 75 13: Saat kaç size uygunsa bana fark etmez
+19.06.2023 16:00 - Eren: akşam yedi iyi mi?
+19.06.2023 16:00 - Eren: @905057505001 ?
+19.06.2023 16:03 - +90 505 750 50 01: Şu anda dışardayım
+19.06.2023 16:03 - +90 505 750 50 01: 7-7:30 arası gibi müsait olmaya çalışırım
+19.06.2023 16:08 - Eren: Tamamdır yedide toplanırız o zaman
+19.06.2023 18:51 - Eren: arkadaşlar toplantıyı yedi buçukta yapsak olur mu
+19.06.2023 18:51 - Eren: acil bi
+19.06.2023 18:51 - Eren: işim çıktı da
+19.06.2023 18:52 - +90 552 846 75 13: Olur
+19.06.2023 18:52 - +90 505 750 50 01: Olur tabi
+19.06.2023 18:52 - +90 505 750 50 01: Discord üzerinden mi yapıcaz
+19.06.2023 18:53 - Eren: WhatsApp sesli daha rahat olur bence
+19.06.2023 19:13 - Eren: tamadır hallettim
+19.06.2023 19:13 - Eren: müsaot olduğunuzda yazın başlarız
+19.06.2023 19:14 - +90 552 846 75 13: Ben müsaitim
+19.06.2023 19:14 - +90 505 750 50 01: Bende
+19.06.2023 19:14 - +90 505 750 50 01: Müsaitim
+19.06.2023 19:29 - Eren: <Medya dahil edilmedi>
+19.06.2023 19:30 - Eren: MEMAPP
+20.06.2023 13:13 - +90 505 750 50 01: Bugün
+20.06.2023 13:13 - +90 505 750 50 01: Ne yapıyoruz
+20.06.2023 13:40 - Eren: front-end tasarıma yavaştan başlayabiliriz
+20.06.2023 13:40 - Eren: istersen sen kodu yazmaya başla
+20.06.2023 13:40 - Eren: ben de gün içinde yazarım
+20.06.2023 13:41 - Eren: github hesaplarınızı verirseniz size yetki verebilirim
+20.06.2023 13:41 - Eren: commit atmak için
+20.06.2023 13:41 - Eren: commit attığınızda yaptığınız değişikliği, "Settings icon is changed" gibi yorum satırında belirtin
+20.06.2023 13:47 - +90 505 750 50 01: Şu anda evde değilim geçince yazmaya başlayım
+20.06.2023 13:48 - +90 505 750 50 01: Öncesinde yine bir tasarım yapacak mıyız
+20.06.2023 13:48 - +90 505 750 50 01: Yoksa önce yaptıklarımıza benzer mi olsun
+20.06.2023 13:48 - Eren: Yaptıklarımız uygulamaya geçireceğiz işte
+20.06.2023 13:51 - +90 505 750 50 01: Tamam
+20.06.2023 13:51 - +90 505 750 50 01: Hangi sayfadan başlayım ben
+20.06.2023 14:28 - Eren: profil sayfasından başla istersne
+20.06.2023 16:06 - +90 505 750 50 01: Ya şurda
+20.06.2023 16:06 - +90 505 750 50 01: Banner kısmı var ya
+20.06.2023 16:07 - +90 505 750 50 01: Bunu ortadan eğemedim bir türlü
+20.06.2023 16:07 - +90 505 750 50 01: Komut olarak sağ ve sol çıkıyor orta çıkmıyor
+20.06.2023 16:07 - +90 505 750 50 01: <Medya dahil edilmedi>
+20.06.2023 17:21 - Eren: ne bu?
+20.06.2023 17:22 - Eren: he anladım
+20.06.2023 17:22 - Eren: sen devam et
+20.06.2023 17:22 - Eren: en son ben tekrar bakarım ona
+20.06.2023 19:43 - Eren: @905057505001 gelişme var mı?
+20.06.2023 19:44 - +90 505 750 50 01: Bi hastaneye gelmek zorunda kaldım
+20.06.2023 19:44 - +90 505 750 50 01: Birazdan geçip
+20.06.2023 19:44 - +90 505 750 50 01: Devam edicem
+20.06.2023 19:44 - Eren: tamamdır
+21.06.2023 12:14 - Eren: <Medya dahil edilmedi>
+21.06.2023 12:14 - Eren: henüz düzenlemedim
+21.06.2023 12:14 - Eren: arkaplan vs daha farklı olacak
+21.06.2023 13:03 - +90 505 750 50 01: Güzel olmuş
+21.06.2023 13:03 - +90 505 750 50 01: Eline sağlık
+23.06.2023 12:57 - Eren: bugün toplantı için müsait misiniz
+23.06.2023 14:50 - +90 505 750 50 01: Ben müsaitim
+23.06.2023 15:02 - +90 552 846 75 13: Ben dışarıdayım
+24.06.2023 16:04 - Eren: arkadaşlar merhaba
+24.06.2023 16:04 - Eren: yakın tarihte toplanmamız gerekiyor
+24.06.2023 16:04 - Eren: bu gidişle ürün yetişmeyecel
+24.06.2023 16:05 - Eren: kod yazmak konusunda kendine şu anda güvenmeyen biri figma üzerinden uygulama tasarımlarını yapsın
+24.06.2023 16:05 - Eren: konseptimiz belli, size örnek şablonlar da attım, isteyen olursa daha çok atarım
+24.06.2023 16:06 - Eren: @905057505001, yazdığın kod güzel ama birkaç sıkıntı var
+24.06.2023 16:06 - Eren: düzen vs konusunda
+24.06.2023 16:06 - Eren: yakın zamanda onları da konuşmamız gerek
+24.06.2023 16:06 - Eren: @905528467513 senin de artık aktif olarak görev alman gerekiyor
+24.06.2023 16:07 - Eren: Şu anda süremiz kısıtlı olduğu için senin de ufaktan koda girmen gerekiyor, fakat Figma üzerinden tasarım yapma işini alırsan kod konusunda çok zorlanmana gerek kalmaz muhtemele n
+24.06.2023 16:08 - Eren: Tasarım ve kullanıcı deneyimi üzerine çalışılması gerekiyor, tasarımlar çok yavan, o yüzden benimle iletişime geçebilirsin bu konuda
+24.06.2023 16:08 - Eren: eğer gerekli koordinasyon bu sprintte de sağlanmazsa ben tek başıma devam edeceğim bilginiz olsun
+24.06.2023 16:09 - +90 552 846 75 13: Sınavlarım bitti zaten bu akşam başlayabilirim ben
+24.06.2023 16:09 - +90 552 846 75 13: Ne yapmam gerekiyor şu an
+24.06.2023 16:09 - Eren: şu anda figma üzerinden uygulama konseptine uygun tasarımlar gerekiyor
+24.06.2023 16:09 - Eren: profil sayfasını yolluyorum şimfdi
+24.06.2023 16:09 - +90 552 846 75 13: Tamamdır ben başlarım yaptıkça da atarım
+24.06.2023 16:10 - +90 552 846 75 13: Tamam
+24.06.2023 16:10 - Eren: ne kadar hızlı tasarım gelirse front-endi o kadar hızlı hallederiz ve bu hafta içinde uygulama bitebilir
+24.06.2023 16:10 - +90 552 846 75 13: Tamamdır
+24.06.2023 16:10 - Eren: fakat şu an bayram olduğu için
+24.06.2023 16:10 - Eren: herkes bir yerlere gider diye tahmin ediyorum, aksaklık olur muhtemelen
+24.06.2023 16:11 - Eren: şu anda güzel bir keşfet sayfası tasarımı lazım bize
+24.06.2023 16:11 - Eren: en acil
+24.06.2023 16:11 - Eren: bir de anasayfa
+24.06.2023 16:11 - +90 552 846 75 13: Olsun boş olan her zamanda ben tasarımla ilgilenirim
+24.06.2023 16:11 - +90 552 846 75 13: Ne olacak o sayfada
+24.06.2023 16:11 - Eren: <Medya dahil edilmedi>
+24.06.2023 16:11 - +90 552 846 75 13: Genel şeyleri belirleyelim
+24.06.2023 16:11 - Eren: instagram keşfeti referans alabilirsin
+24.06.2023 16:11 - +90 552 846 75 13: Ha tamam
+24.06.2023 16:11 - Eren: bu biraz ham hali
+24.06.2023 16:12 - Eren: genel bir şablon oluşsun, daha sonra keşfete neler koyacağımıza karar veririz
+24.06.2023 16:12 - +90 552 846 75 13: Şu an en acil keşfet ve anasayfa lazım değil mi
+24.06.2023 16:12 - Eren: evet eğer keşfet ve anasayfa yapılırsa
+24.06.2023 16:12 - Eren: uygulamanın genel hatları hazır olur
+24.06.2023 16:12 - +90 552 846 75 13: Tamamdır ben şu an yoldayım yurttan eve donuyorum akşama başlayabilirim
+24.06.2023 16:13 - Eren: Tamamdır olur. Tasarımları bekliyorum
+24.06.2023 16:13 - +90 552 846 75 13: Tamamdır
+24.06.2023 16:15 - +90 505 750 50 01: Tamamdır
+24.06.2023 16:16 - +90 505 750 50 01: Bunu da yapabilirim
+24.06.2023 16:16 - +90 505 750 50 01: Kodda sıkıntı olabiliyor
+24.06.2023 16:16 - Eren: yarın discord üzerinden toplantı düzenleyebilir myiiz
+24.06.2023 16:16 - +90 505 750 50 01: Bana uyar nasıl isterseniz
+24.06.2023 16:16 - Eren: görüntü açarsam muhtemelen daha iyi anlatabilirim
+24.06.2023 16:16 - Eren: aslında kodda çok yanlış bir şey yok
+24.06.2023 16:16 - Eren: ama düzensiz
+24.06.2023 16:16 - Eren: tasarım biraz yavan bir de
+24.06.2023 16:17 - Eren: biri tasarım kısmını hallederse sıkıntı çok kalmıyor
+24.06.2023 16:22 - Eren: yarın öğlen saatleri iyi mi?
+24.06.2023 16:22 - Eren: 2-3 gibi
+24.06.2023 16:22 - Eren: toplantı için
+24.06.2023 16:22 - Eren: muhtemelen yaklaşık yarım saat süere
+24.06.2023 16:22 - +90 505 750 50 01: Bana uygun
+24.06.2023 17:16 - +90 552 846 75 13: Olur
+24.06.2023 20:27 - +90 505 750 50 01: @34627634657
+24.06.2023 20:27 - +90 505 750 50 01: <Medya dahil edilmedi>
+24.06.2023 20:28 - +90 505 750 50 01: Bu tasarımlar değişecek mi
+24.06.2023 20:28 - +90 505 750 50 01: Değişmeyecekse başka hangi tasarımlarım eklenmesi gerekiyor
+24.06.2023 20:28 - Eren: şimdilik keşfet değişecek sadece
+24.06.2023 20:28 - +90 505 750 50 01: Tamamdır
+24.06.2023 20:29 - Eren: favori yerleri şimdilik profil sayfasına koydum ama emin değilim
+24.06.2023 20:29 - Eren: yarın anlatırım zaten tasarımı
+24.06.2023 20:29 - Eren: fikre açığım bu konua
+24.06.2023 20:29 - +90 505 750 50 01: Tamamdır
+24.06.2023 20:29 - +90 505 750 50 01: Şimdilik nasıl bir şey istiyoruz keşfet için
+24.06.2023 20:29 - +90 505 750 50 01: Yapalım mı
+24.06.2023 20:29 - +90 505 750 50 01: Yoksa yarına mı bırakalım
+24.06.2023 20:30 - Eren: figmadan güzel bir tasarım gelirse hoş olur
+24.06.2023 20:30 - +90 505 750 50 01: Tamam Sinem bakıyor sanırım
+24.06.2023 20:30 - +90 505 750 50 01: Olmazsa bende yaparım
+24.06.2023 20:30 - Eren: tamamdır
+24.06.2023 20:30 - +90 505 750 50 01: Şu anda bi eğitim için çalışıyorum bitirince yaparım
+24.06.2023 20:30 - +90 505 750 50 01: Yada sineme yardımcı olurum
+24.06.2023 20:50 - +90 552 846 75 13: <Medya dahil edilmedi>
+24.06.2023 20:50 - +90 552 846 75 13: Çok basit oldu ama Instagram keşfeti örnek alarak yaptım
+24.06.2023 20:50 - Eren: Açıklamalar olmasın bence
+24.06.2023 20:50 - Eren: Tıklayınca gelsin daha doğrusu
+24.06.2023 20:51 - +90 552 846 75 13: olabilir çok fotoğraf olunca dedim yazı falan da olur
+24.06.2023 20:51 - Eren: Bir de şey yapıp atabilir misin
+24.06.2023 20:51 - +90 552 846 75 13: Ha fotoğrafa tıklayınca yazı gelsin
+24.06.2023 20:51 - Eren: Resimlerin köşelerini yuvarlak yapıp
+24.06.2023 20:51 - Eren: Öyle nasıl duruyor onu da görelim
+24.06.2023 20:51 - Eren: Çok yuvarlak değil ama hafif
+24.06.2023 20:51 - +90 552 846 75 13: Yaparım şimdi yapayım atayım
+24.06.2023 20:52 - +90 552 846 75 13: Yazıları kaldırayim mi
+24.06.2023 20:52 - Eren: Bir de yazıların olmadığı bir örneğe bakalım
+24.06.2023 20:52 - +90 552 846 75 13: Tamam
+24.06.2023 20:52 - Eren: Ona göre karar veririz
+24.06.2023 20:52 - +90 552 846 75 13: Yapıyorum
+24.06.2023 20:52 - Eren: Bunun görseli var zaten şimdi elimizde
+24.06.2023 20:52 - +90 552 846 75 13: Tamam
+24.06.2023 21:04 - +90 552 846 75 13: <Medya dahil edilmedi>
+24.06.2023 21:06 - Eren: Böyle hoş oldu bence
+24.06.2023 21:07 - +90 552 846 75 13: güzel derseniz keşfet böyle olsun
+24.06.2023 21:59 - +90 552 846 75 13: <Medya dahil edilmedi>
+24.06.2023 21:59 - +90 552 846 75 13: ana sayfayı da böyle yaptım bakarsınız
+24.06.2023 22:00 - Eren: Ana sayfa konusunda yarın yine konuşalım
+24.06.2023 22:00 - Eren: Keşfet güzel duruyor
+24.06.2023 22:01 - Eren: Bu şekilde direkt kullanılabilir
+24.06.2023 22:01 - +90 552 846 75 13: Tamamdır
+24.06.2023 22:01 - +90 552 846 75 13: O zaman ana sayfa yarına kaldı değil mi
+24.06.2023 22:01 - Eren: Evet. Benim de aklımda bir şeyler var
+24.06.2023 22:01 - +90 552 846 75 13: Tamamdir o zaman
+24.06.2023 22:01 - Eren: Onları da anlatırım
+24.06.2023 22:02 - Eren: Yarın öğlen 14.00-15.00 gibi buluşuruz.
+24.06.2023 22:02 - Eren: Ya da öğlen saatlerinde desek daha doğru, gruba mesaj atarım zaten
+24.06.2023 22:02 - +90 552 846 75 13: Tamamdır
+24.06.2023 22:02 - Eren: İşi olan vs varsa sabah ya da akşam da olur fark etmez
+24.06.2023 22:02 - Eren: Herkesin disxordu var mi
+24.06.2023 22:03 - +90 552 846 75 13: Şu an bir işim yok gibi görünüyor
+24.06.2023 22:03 - +90 552 846 75 13: Bende var
+24.06.2023 22:03 - Eren: Herhangi birinin işi cikarsa toplantıyı erteleriz ama yarın mutlaka yapalım
+24.06.2023 22:03 - Eren: Ya da erkene çekeriz vs
+24.06.2023 22:03 - +90 552 846 75 13: Tamamdır
+24.06.2023 22:05 - +90 505 750 50 01: Tamamdır
+25.06.2023 13:41 - +90 505 750 50 01: ne zaman
+25.06.2023 13:41 - +90 505 750 50 01: toplanıyoruz
+25.06.2023 13:41 - Eren: benim için 2 uygun
+25.06.2023 13:42 - +90 505 750 50 01: benim için de
+25.06.2023 13:42 - Eren: @905528467513
+25.06.2023 13:42 - +90 505 750 50 01: hatta herkes musait ise şu anda da olur
+25.06.2023 13:42 - +90 505 750 50 01: interneti kapalı şu anda
+25.06.2023 13:42 - Eren: o cevap verene kadar ufak bir işim var onu halledeyim ben de
+25.06.2023 13:43 - +90 505 750 50 01: tamam bende ders çalışıyordum
+25.06.2023 13:43 - +90 505 750 50 01: istiyorsan
+25.06.2023 13:43 - +90 505 750 50 01: discord adımı söyleyim
+25.06.2023 13:43 - +90 505 750 50 01: telefondan görmezsem ordan yazarsın
+25.06.2023 13:43 - Eren: gruba yaz direkt eklerim birazdan
+25.06.2023 13:43 - +90 505 750 50 01: IamWhoIam#0407
+25.06.2023 13:57 - Eren: Sinem gelene kadar bekleyelim mi yoksa başlayalım mı
+25.06.2023 13:57 - Eren: internetini çok erken açacak gibi durmuyor
+25.06.2023 13:57 - Eren: çok geçe kalırsa sprinti yazmaya başlarız belki
+25.06.2023 14:13 - +90 505 750 50 01: Biraz bekleyelime
+25.06.2023 14:13 - +90 505 750 50 01: Bence
+25.06.2023 14:41 - +90 552 846 75 13: Geldim
+25.06.2023 14:42 - +90 552 846 75 13: Geç gördüm kusura bakmayın
+25.06.2023 14:42 - +90 505 750 50 01: Hoşgeldin
+25.06.2023 14:42 - +90 505 750 50 01: kaç gibi yapalım o zaman
+25.06.2023 14:43 - +90 505 750 50 01: işi olan var mı şu anda
+25.06.2023 14:43 - Eren: İşi olan yoksa başlayalım
+25.06.2023 14:43 - +90 552 846 75 13: Şu an yapalım çünkü dışarı çıkacağım
+25.06.2023 14:43 - +90 552 846 75 13: Olur
+25.06.2023 14:43 - +90 505 750 50 01: tamamdır
+25.06.2023 14:43 - Eren: Numan sana arkadaşlık attım
+25.06.2023 14:43 - Eren: onu kabul edebilir misin
+25.06.2023 14:44 - +90 505 750 50 01: ettim
+25.06.2023 14:44 - Eren: @905528467513 discord kullanıcı ismini atabilir misin
+25.06.2023 14:44 - +90 552 846 75 13: Bir dakika atıyorum
+25.06.2023 14:45 - +90 552 846 75 13: SinemŞafak#7213
+25.06.2023 14:45 - Eren: sana da yolladım
+25.06.2023 14:45 - Eren: şimdi gelmiş olması lazım
+25.06.2023 14:46 - Eren: pardon
+25.06.2023 14:46 - Eren: kullanıcı adı yanlış dedi
+25.06.2023 14:46 - +90 552 846 75 13: Yok gelmedi
+25.06.2023 14:46 - Eren: eronibonzio
+25.06.2023 14:46 - Eren: sen bana yolla,
+25.06.2023 14:46 - +90 552 846 75 13: <Medya dahil edilmedi>
+25.06.2023 14:47 - Eren: şimdi gelmiş olması lazım
+25.06.2023 14:47 - +90 552 846 75 13: Tamamdır kabul ettim
+25.06.2023 15:09 - Eren: https://www.youtube.com/watch?v=Xinjf7AQUYA
+25.06.2023 15:17 - Eren: Title
+25.06.2023 15:17 - Eren: metin
+25.06.2023 15:17 - Eren: kapak resim
+25.06.2023 15:17 - Eren: resimler
+25.06.2023 17:20 - +90 505 750 50 01: Eren şimdi
+25.06.2023 17:20 - +90 505 750 50 01: Yazmak başlıyorum dediğin yeri
+25.06.2023 18:53 - +90 505 750 50 01: @34627634657
+25.06.2023 18:53 - +90 505 750 50 01: https://github.com/kusturnuman/aramaCubugu
+25.06.2023 18:53 - +90 505 750 50 01: yazdığım kod bu
+25.06.2023 19:07 - Eren: bakıyorum şimdi
+25.06.2023 19:07 - Eren: ekran görüntüsü varsa atabilir misin
+25.06.2023 19:08 - Eren: Kod düzgün duruyor eline sağlık
+25.06.2023 19:33 - +90 505 750 50 01: <Medya dahil edilmedi>
+25.06.2023 19:33 - +90 505 750 50 01: <Medya dahil edilmedi>
+25.06.2023 19:33 - +90 505 750 50 01: <Medya dahil edilmedi>
+25.06.2023 19:33 - Eren: Tamamdır güzel olmuş
+25.06.2023 19:33 - Eren: Eline sağlık
+25.06.2023 19:33 - +90 505 750 50 01: Sağol
+26.06.2023 18:19 - +90 552 846 75 13: Ben dün kod için araştırma yaptım bugün ve yarın yazmak için uğraşacağım  umarım olur haberiniz olsun dedim
+26.06.2023 21:10 - +90 552 846 75 13: @34627634657 eren kullanılan kodda apı falan diyor da ben onu pek anlamadım
+26.06.2023 21:10 - +90 552 846 75 13: nasıl olacak
+26.06.2023 21:10 - +90 552 846 75 13: yada apı kullanacak mıyız
+26.06.2023 21:10 - Eren: Ali vakit kalırsa
+26.06.2023 21:11 - +90 552 846 75 13: yani şu an apı için bir şey yapmama gerek yok değil mi
+26.06.2023 21:11 - Eren: Hayır
+26.06.2023 21:11 - +90 552 846 75 13: tamamdır teşekkür ederim
+26.06.2023 21:12 - Eren: Rica ederim
+27.06.2023 13:27 - +90 505 750 50 01: Bugün ne yapıcaz
+27.06.2023 13:27 - Eren: Kod yazmaya devam edeceğiz
+27.06.2023 13:28 - Eren: Galiba sinemin yardıma ihtiyacı var syafa konusunda
+27.06.2023 13:28 - Eren: Ona yardım edebilirsin
+27.06.2023 13:31 - +90 505 750 50 01: Tamamdır
+27.06.2023 13:31 - +90 505 750 50 01: Ben sineme yazayım o zaman
+27.06.2023 17:51 - +90 552 846 75 13: Bir artı butonu ekledim ve bu butona basınca paylaş adlı sayfaya götürüyor şimdi resim ve yazı paylaşma üzerinde çalışıyorum
+27.06.2023 17:51 - +90 552 846 75 13: <Medya dahil edilmedi>
+27.06.2023 17:51 - +90 552 846 75 13: <Medya dahil edilmedi>
+27.06.2023 17:53 - Eren: tamamdır
+27.06.2023 17:54 - Eren: Appbar transparan olsun
+27.06.2023 17:54 - Eren: üstünde de paylaş yazsın
+27.06.2023 17:54 - Eren: elevation 0 yap
+27.06.2023 17:57 - +90 552 846 75 13: Paylaş sayfasının üstünde paylaş yazıyor
+27.06.2023 18:02 - +90 552 846 75 13: <Medya dahil edilmedi>
+27.06.2023 18:02 - +90 552 846 75 13: <Medya dahil edilmedi>
+27.06.2023 18:02 - +90 552 846 75 13: Şimdi oldu mu
+27.06.2023 18:04 - Eren: Niye iki sayfa var ?
+27.06.2023 18:04 - +90 552 846 75 13: Bu + butonu anasayfada olacak olan ikon
+27.06.2023 18:04 - Eren: Butona tıkladığında sayfaya mi gidiyor
+27.06.2023 18:04 - Eren: He tamam o zaman
+27.06.2023 18:04 - +90 552 846 75 13: Üstüne basınca bu sayfa açılıyor
+27.06.2023 18:05 - Eren: Paylaş sayfasındami appbar transparant olsun
+27.06.2023 18:05 - Eren: Onu kastettim
+27.06.2023 18:06 - +90 552 846 75 13: Ha ben dedim paylaş sayfası olduğu belli olsun diye transparan yapmadım
+27.06.2023 18:06 - +90 552 846 75 13: Hani + butonuna basınca hangi sayfa açılıyor o belli olsun
+27.06.2023 18:06 - Eren: appbarı silme
+27.06.2023 18:06 - Eren: paylaş yazısı olsun yine yukarda
+27.06.2023 18:06 - Eren: sadece transparan olsun
+27.06.2023 18:06 - Eren: geri oku da olsun aynı şekidle
+27.06.2023 18:06 - +90 552 846 75 13: Ha yazı olsun ama appbar transparan olsun doğru mu anladım
+27.06.2023 18:06 - Eren: aynen
+27.06.2023 18:07 - +90 552 846 75 13: Tamam deneyeyim
+27.06.2023 18:07 - Eren: onu sonra düzenleriz zaten çok zor bir şey değil
+27.06.2023 18:07 - Eren: şimdilik transparan olsun
+27.06.2023 18:07 - Eren: ama uygulamanın arkaplan rengini değiştirmen gerekebilir
+27.06.2023 18:07 - +90 552 846 75 13: Ne olacak rengi
+27.06.2023 18:08 - Eren: yazı görünmez diye söyledim ya
+27.06.2023 18:08 - Eren: yazı beyazsa siyah siyahsa beyaz
+27.06.2023 18:08 - +90 552 846 75 13: Ha ilerledikçe değiştiriz olur mu
+27.06.2023 18:12 - +90 552 846 75 13: <Medya dahil edilmedi>
+27.06.2023 18:12 - +90 552 846 75 13: Şimdi oldu mu
+27.06.2023 18:12 - Eren: Aynen güzel olmuş
+27.06.2023 18:13 - +90 552 846 75 13: Tamamdır bu iki sayfada eksik yok değil mi ona göre fotoğraf paylaşma için bakacağım
+27.06.2023 18:13 - Eren: aynen fotoğraf paylaşımı kısmına geçebilirsin
+27.06.2023 18:13 - +90 552 846 75 13: Tamamdır
+27.06.2023 18:13 - +90 552 846 75 13: Siz ne durumdasınız
+27.06.2023 18:20 - Eren: Yemekten sonra ss atarım
+27.06.2023 18:26 - +90 552 846 75 13: Tamamdır
+27.06.2023 22:06 - Eren: <Medya dahil edilmedi>
+27.06.2023 22:06 - Eren: örnek konteynırlardan birini oluşturdum
+27.06.2023 22:06 - Eren: biraz daha üzerine gidilmesi gerek ama fena durmuyor bence
+27.06.2023 22:21 - +90 552 846 75 13: Bence de
+27.06.2023 22:22 - +90 552 846 75 13: Ben de fotoğraf ekleme üzerine baya çalıştım fakat yanlışlıkla kotlini de yüklemişim sdk hata veriyor onu düzeltmeye çalışıyorum
+28.06.2023 08:35 - Eren: iyi bayramlar arkadaşlar
+28.06.2023 09:58 - +90 552 846 75 13: İyi bayramlar
+28.06.2023 10:45 - +90 505 750 50 01: İyi bayramlar
+30.06.2023 16:45 - Eren: son durum nedir arkadaşlar ?
+30.06.2023 18:06 - +90 552 846 75 13: Ben hem vs code de hem de android studio da aynı hatayı alıyorum kotlin ile alakalı 2 gündür düzeltmeye çalışıyorum ama olmuyor bugün yine uğraşacağım olmazsa yazdığım kodu sizinle paylaşırım siz devam edersiniz ben sorunu çözene kadar
+30.06.2023 18:06 - Eren: Sorun nedir
+30.06.2023 18:06 - Eren: Tam olarak anlamadım
+30.06.2023 18:07 - +90 552 846 75 13: Kotlin güncel olmadığı için yazdığım kod emülatöre yansımıyor direk hata alıyorum
+30.06.2023 18:07 - +90 552 846 75 13: Güncellemeye çalışıyorum ama olmuyor
+30.06.2023 18:07 - Eren: Hata tam olarak ne
+30.06.2023 18:07 - Eren: Mesajı atabilir misin
+30.06.2023 18:07 - +90 552 846 75 13: Tabi atayım
+30.06.2023 18:13 - +90 552 846 75 13: AILURE: Build failed with an exception.
+
+* Where:
+Build file 'C:\egitim\belgeler\flutterprojeleri\android\build.gradle' line: 24
+
+* What went wrong:
+A problem occurred evaluating root project 'android'.
+> Plugin with id 'com.android.application' not found.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BU LD FAILED in 16s
+Exception: Gradle task assembleDebug failed with exit code 1
+Exited (sigterm)
+30.06.2023 18:14 - +90 552 846 75 13: ben android studioyu bozdum galiba onu silip tekrar yüklemem gerek gibi görünüyor
+30.06.2023 18:15 - Eren: Akşam bakacağım buna
+30.06.2023 18:15 - +90 552 846 75 13: tamamdır
+30.06.2023 18:15 - +90 552 846 75 13: bu vs code de aldığım bir hata
+30.06.2023 18:16 - Eren: Andriod studioda ne hata aldın?
+30.06.2023 18:16 - Eren: Aynısı mı
+30.06.2023 18:17 - +90 552 846 75 13: Android studio da da kotlin güncel değil hatası alıyordum bende bir video izledim yapaya çalıştım şimdi komple proje ortadan kalktı 🥲
+30.06.2023 18:17 - +90 552 846 75 13: Garip bir şeyler oldu galiba bozdum gibi
+30.06.2023 18:18 - Eren: Projeyi sil yeni proje aç
+30.06.2023 18:18 - Eren: Kodu kopyalayabiliyorsan
+30.06.2023 18:18 - +90 552 846 75 13: Onu da denedim
+30.06.2023 18:18 - +90 552 846 75 13: Kodu aldım ne olur ne olmaz diye kopyalamıştım olurda güncelleken bir şey olur diye
+30.06.2023 18:49 - Eren: istersen discorddan da bakabiliriz bu arada
+30.06.2023 18:49 - Eren: müsaitsen tabi
+30.06.2023 18:49 - Eren: proje yönetimi
+30.06.2023 18:49 - Eren: videolarını bitireyim bakacağım
+30.06.2023 19:16 - +90 552 846 75 13: Tamamdır
+30.06.2023 22:22 - Eren: https://stackoverflow.com/questions/73118286/flutter-build-gradle-error-build-failed-with-an-exception
+30.06.2023 23:11 - +90 552 846 75 13: Tam olarak ne yapacağım hiç anlamadım
+1.07.2023 10:01 - Eren: Birkaç çözüm yazmışlar orada
+1.07.2023 10:01 - Eren: Biri olmazsa öbürünü yap
+1.07.2023 10:25 - +90 552 846 75 13: Tamamdır deneyeceğim
+1.07.2023 21:02 - Eren: Halledebildini
+1.07.2023 21:05 - +90 552 846 75 13: Hiç bakamadım biraz hastayım kusura bakmayın en geç yarın halletmeye çalışacağım
+1.07.2023 21:06 - Eren: Tamamdır. İstersen kodları @905057505001'a at o devam ettirsin.
+1.07.2023 21:06 - Eren: Sorunu çözümü devralirsin tekrar
+1.07.2023 21:25 - +90 552 846 75 13: O da olur
+1.07.2023 21:25 - +90 552 846 75 13: Paylaşırım
+1.07.2023 22:05 - +90 552 846 75 13: Eren numan şu an bilgisayara erişimi olmayan bir yerdeymiş daha önce de söylemişti
+1.07.2023 22:06 - Eren: 1 temmuzda gidecekti doğru
+1.07.2023 22:06 - Eren: tamam sen çözmeyi dene çözemezsen konuluruz tekrar
+1.07.2023 22:07 - +90 552 846 75 13: Tamam ben dediğim gibi attığın yolları yarın kesin deneyeceğim
+1.07.2023 22:07 - +90 552 846 75 13: Zaten yaptığım kısmın çok az bir yeri kaldı
+2.07.2023 19:34 - Eren: durum nedir
