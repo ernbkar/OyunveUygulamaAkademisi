@@ -6,8 +6,8 @@ Gazoz
 ## PRODUCT BACKLOG
 https://miro.com/app/board/uXjVM9wkNe0=/#tpicker-content
 ## TAKIMDAKİ KİŞİLER
-- Eren Bekar: Scrum Master/ Developer/ Product Owner
-- Sinem Şafak: Developer
+- Eren Bekar: Scrum Master/ Developer/
+- Sinem Şafak: Product Owner/Developer
 - Numan Kuştur: Developer
 
 ## ÜRÜN İSMİ
