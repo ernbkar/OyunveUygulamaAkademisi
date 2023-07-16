@@ -8,8 +8,8 @@ https://miro.com/app/board/uXjVM9wkNe0=/#tpicker-content
 ## TAKIMDAKİ KİŞİLER
 - Eren Bekar: Scrum Master/ Developer/
 - Sinem Şafak: Product Owner/Developer
-- Numan Kuştur: Developer
-
+- Numan Kuştur: Aktif olmayan üye
+  
 ## ÜRÜN İSMİ
 MEMAPP (Memory Map veya Memory App şeklinde olarak akılda kalması için bu isim seçilmiştir.)
 
@@ -73,12 +73,31 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/8c23efee-92fb-43b8-9c02-a1d5b7a90d4c)
 
 
-  - Sprint Review: Kullanıcı profil sayfası, ana sayfa tasarımlarına ait kartlar, profil sayfasında tıklanabilir widgetların tasarımları yapılmıştır. Sprint Review Katılımcıları: Eren Bekar, Numan Kuştur, Sinem Şafak
+  - Sprint Review: Kullanıcı profil sayfası, ana sayfa tasarımlarına ait kartlar, profil sayfasında tıklanabilir widgetların tasarımları yapılmıştır. Sprint Review Katılımcıları: Eren Bekar,Sinem Şafak
   - Sprint Retrospective:
     * Takım üyelerinin, gelecek sprintlere katılımı teşvik edilmiştir. İlk sprintten sonra daha planlı olunması gerektiği vurgulanmıştır.
 ## PRODUCT BACKLOG
 https://miro.com/app/board/uXjVM53da1w=/
 
+# SPRİNT 3
+  - Sprint içinde tamamlanması tahmin edilen puan: 120
+  - Projede toplam 340 puan toplanması gerekmektedir. Bu durumda ilk sprint için en az 120 puan alınması hedeflenmiştir.
+  - Daily Scrum: Scrum toplatınlarına whatsapp üzerinden ve gerektiğinde görüntülü konuşma ile yapılmasına karar verilmiştir. Daily scrum toplantılarının whatsapp yedeklerine buradan ulaşabilirsiniz: https://github.com/ernbkar/OyunveUygulamaAkademisi/blob/main/Project%20management/sprint2/Dailyscrum2.txt
+  - Sprint Notes: User storylere product backloglarının içerisinde yer verilmiştir. Hikaye ve task detaylarına, product backloglarındaki itemlere tıklanarak ulaşılabilir. Sprinte taskler ve kullanıcı hikayeleri üzerinde daha verimli durulmuştur.
+  - Sprint genelinde firebase bağlantılarıyla uğraşıldığından dolayı sadece bir adet ürün ekran görüntüsüne yer verilmiştir.
+  ## Sprint Board Update
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/ac2997a3-3242-4929-8889-0f90d379107d)
+
+  ## Ürün ekran görüntüleri:
+  ### Ayarlar Sayfası
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/1b2c7cca-6a45-40be-a003-d2a323fe24e3)
+
+
+  - Sprint Review: Ayarlar sayfası tasarımı yapılmıştır ve uygulamanın işleyişi için gerekli olan firebase bağlantıları tanımlanmıştır.Review Katılımcıları: Eren Bekar, Sinem Şafak
+  - Sprint Retrospective:
+    * Takım üyelerinin önceki sprintlere göre verimliliğinin arttığı gözlemlenmiştir. Takım üyeleri bu konuda tebrik edilmiştir.
+## PRODUCT BACKLOG
+https://miro.com/app/board/uXjVM53da1w=/
 
 
 
