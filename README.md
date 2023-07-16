@@ -59,6 +59,7 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
   - Projede toplam 340 puan toplanması gerekmektedir. Bu durumda ilk sprint için en az 120 puan alınması hedeflenmiştir.
   - Daily Scrum: Scrum toplatınlarına whatsapp üzerinden ve gerektiğinde görüntülü konuşma ile yapılmasına karar verilmiştir. Daily scrum toplantılarının whatsapp yedeklerine buradan ulaşabilirsiniz: https://github.com/ernbkar/OyunveUygulamaAkademisi/blob/main/Project%20management/sprint2/Dailyscrum2.txt
   - Sprint Notes: User storylere product backloglarının içerisinde yer verilmiştir. Hikaye ve task detaylarına, product backloglarındaki itemlere tıklanarak ulaşılabilir. Sprinte taskler ve kullanıcı hikayeleri üzerinde daha verimli durulmuştur.
+  
   ## Sprint Board Update
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/ac2997a3-3242-4929-8889-0f90d379107d)
 
@@ -73,9 +74,29 @@ MEMAPP, kişilerin gezdikleri yerlerdeki anılarını saklayabileceği ve bu an�
   ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/8c23efee-92fb-43b8-9c02-a1d5b7a90d4c)
 
 
-  - Sprint Review: Kullanıcı profil sayfası, ana sayfa tasarımlarına ait kartlar, profil sayfasında tıklanabilir widgetların tasarımları yapılmıştır. Sprint Review Katılımcıları: Eren Bekar, Numan Kuştur, Sinem Şafak
+  - Sprint Review: Kullanıcı profil sayfası, ana sayfa tasarımlarına ait kartlar, profil sayfasında tıklanabilir widgetların tasarımları yapılmıştır. Sprint Review Katılımcıları: Eren Bekar, Sinem Şafak
   - Sprint Retrospective:
     * Takım üyelerinin, gelecek sprintlere katılımı teşvik edilmiştir. İlk sprintten sonra daha planlı olunması gerektiği vurgulanmıştır.
+## PRODUCT BACKLOG
+https://miro.com/app/board/uXjVM53da1w=/
+
+# SPRİNT 3
+  - Sprint içinde tamamlanması tahmin edilen puan: 120
+  - Projede toplam 340 puan toplanması gerekmektedir. Bu durumda ilk sprint için en az 120 puan alınması hedeflenmiştir.
+  - Daily Scrum: Scrum toplatınlarına whatsapp üzerinden ve gerektiğinde görüntülü konuşma ile yapılmasına karar verilmiştir. Daily scrum toplantılarının whatsapp yedeklerine buradan ulaşabilirsiniz: https://github.com/ernbkar/OyunveUygulamaAkademisi/blob/main/Project%20management/sprint2/Dailyscrum2.txt
+  - Sprint Notes: User storylere product backloglarının içerisinde yer verilmiştir. Hikaye ve task detaylarına, product backloglarındaki itemlere tıklanarak ulaşılabilir. Sprinte taskler ve kullanıcı hikayeleri üzerinde daha verimli durulmuştur.
+  - Bu sprint için sadece bir adet yeni ürün ekran görüntüsü eklenmiştir. Sprint genelinde uygulama içindeki firebase bağlantılarıyla uğraşılmıştır.
+  ## Sprint Board Update
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/ac2997a3-3242-4929-8889-0f90d379107d)
+
+  ## Ürün ekran görüntüleri:
+  ### Ayarlar Sayfası
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/64ae705a-2447-421a-8e93-348af1479a60)
+
+
+  - Sprint Review: Ayarlar sayfası tasarımı yapılmıştır. Sprintin geriye kalanında login ve register işlemleri gibi çeşitli işlemler için firebase bağlantılarıyla uğraşılmıştır. Sprint katılımcıları : Eren Bekar, Sinem Şafak
+  - Sprint Retrospective:
+    * Önceki sprintlere göre takımın performansı genel olarak daha iyiydi.
 ## PRODUCT BACKLOG
 https://miro.com/app/board/uXjVM53da1w=/
 
