@@ -86,7 +86,8 @@ https://miro.com/app/board/uXjVM53da1w=/
   - Sprint Notes: User storylere product backloglarının içerisinde yer verilmiştir. Hikaye ve task detaylarına, product backloglarındaki itemlere tıklanarak ulaşılabilir. Sprinte taskler ve kullanıcı hikayeleri üzerinde daha verimli durulmuştur.
   - Sprint genelinde firebase bağlantılarıyla uğraşıldığından dolayı sadece bir adet ürün ekran görüntüsüne yer verilmiştir.
   ## Sprint Board Update
-  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/ac2997a3-3242-4929-8889-0f90d379107d)
+  ![resim](https://github.com/ernbkar/OyunveUygulamaAkademisi/assets/92184715/78162705-b8eb-4fea-af54-5b09eb89ca4c)
+
 
   ## Ürün ekran görüntüleri:
   ### Ayarlar Sayfası
