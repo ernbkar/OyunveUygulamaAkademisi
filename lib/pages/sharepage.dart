@@ -1,6 +1,12 @@
 import 'dart:io';
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
+import 'package:firebase_storage/firebase_storage.dart';
+import 'package:memapp/pages/discoverpage.dart';
+
+bool update = false;
+late DocumentSnapshot documentSnapshot;
 
 class SharePage extends StatefulWidget {
   @override
@@ -75,7 +81,7 @@ class _SharePageState extends State<SharePage> {
               )
             else
               const Text(
-                'Ekranın İçeriği',
+                'Lütfen içerik ekleyiniz',
                 style: TextStyle(fontSize: 24),
               ),
           ],
@@ -98,7 +104,11 @@ class NewPostPage extends StatefulWidget {
 class _NewPostPageState extends State<NewPostPage> {
   final TextEditingController _textEditingController = TextEditingController();
   File? _selectedImage;
-
+  String imageurl="";
+  String docID = "";
+  Future getdocid() async{
+    await FirebaseFirestore.instance.collection("Imagedata").get().then((snapshot)=>(snapshot.docs.forEach((element) {docID = element.reference.id;})));
+  }
   Future<void> selectImage(BuildContext context) async {
     showDialog(
       context: context,
@@ -117,8 +127,22 @@ class _NewPostPageState extends State<NewPostPage> {
                       source: ImageSource.gallery,
                     );
                     if (pickedImage != null) {
-                      setState(() {
+                      setState(() async {
+                        //Unique file name
                         _selectedImage = File(pickedImage.path);
+                        String uniquefilename=DateTime.now().millisecondsSinceEpoch.toString();
+                        //Reference of storage root
+                        Reference referenceroot = FirebaseStorage.instance.ref();
+                        Reference referencedirimages = referenceroot.child("images");
+                        //Reference for image to be stored
+                        Reference referenceofuploadedimage = referencedirimages.child(uniquefilename);
+
+                        try{
+                          //Store
+                          await referenceofuploadedimage.putFile(File(pickedImage.path));
+                          //Get download URL
+                          imageurl = await referenceofuploadedimage.getDownloadURL();
+                        }catch(error){}
                       });
                     }
                   },
@@ -133,8 +157,21 @@ class _NewPostPageState extends State<NewPostPage> {
                       source: ImageSource.camera,
                     );
                     if (pickedImage != null) {
-                      setState(() {
+                      setState(() async{
                         _selectedImage = File(pickedImage.path);
+                        String uniquefilename=DateTime.now().millisecondsSinceEpoch.toString();
+                        //Reference of storage root
+                        Reference referenceroot = FirebaseStorage.instance.ref();
+                        Reference referencedirimages = referenceroot.child("images");
+                        //Reference for image to be stored
+                        Reference referenceofuploadedimage = referencedirimages.child(uniquefilename);
+
+                        try{
+                          //Store
+                          await referenceofuploadedimage.putFile(File(pickedImage.path));
+                          //Get download URL
+                          imageurl = await referenceofuploadedimage.getDownloadURL();
+                        }catch(error){}
                       });
                     }
                   },
@@ -145,15 +182,6 @@ class _NewPostPageState extends State<NewPostPage> {
         );
       },
     );
-  }
-
-  void post() {
-    String text = _textEditingController.text;
-    if (_selectedImage != null && text.isNotEmpty) {
-      Navigator.pop(context, {'text': text, 'image': _selectedImage!.path});
-    } else {
-      // Gerekli kontrolleri yaparak kullanıcıya bir uyarı verebilirsiniz.
-    }
   }
 
   @override
@@ -191,19 +219,14 @@ class _NewPostPageState extends State<NewPostPage> {
                     color: Colors.grey,
                     borderRadius: BorderRadius.circular(10),
                   ),
-                  child: _selectedImage != null
-                      ? Image.file(
-                    _selectedImage!,
-                    fit: BoxFit.cover,
-                  )
-                      : const Icon(Icons.photo, size: 100, color: Colors.white),
+                  child:  const Icon(Icons.photo, size: 100, color: Colors.white),
                 ),
               ),
               const SizedBox(height: 20),
               TextField(
                 controller: _textEditingController,
                 decoration: const InputDecoration(
-                  labelText: 'Yazı',
+                  labelText: 'Şehir',
                   border: OutlineInputBorder(),
                 ),
                 maxLines: null, // Satır sayısını sınırlama
@@ -213,7 +236,24 @@ class _NewPostPageState extends State<NewPostPage> {
               ),
               const SizedBox(height: 20),
               ElevatedButton(
-                onPressed: post,
+                onPressed: (){
+                  String city = _textEditingController.text.trim();
+                  if (_selectedImage != null && city.isNotEmpty) {
+                    if(imageurl.isEmpty){
+                      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text("Please upload an image")));
+                    }
+                    else
+                    {
+                      Map<String,String> data ={
+                        "city": city,
+                        "image": imageurl
+                      };
+                      FirebaseFirestore.instance.collection("Imagedata").add(data);
+                      update = true;
+                      Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => const DiscoverPage()));
+                    }
+                  }
+                },
                 child: const Text('Paylaş'),
               ),
             ],

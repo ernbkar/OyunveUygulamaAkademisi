@@ -1,10 +1,14 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:memapp/pages/imagespage.dart';
+
+
 class CustomDrawer extends StatelessWidget {
+  final String docID;
   final String city;
-  final String country;
+  final String URL;
   const CustomDrawer({
-    required this.country,
+    required this.docID,
+    required this.URL,
     required this.city,
     Key? key}) : super(key: key);
 
@@ -21,31 +25,32 @@ class CustomDrawer extends StatelessWidget {
             text: TextSpan(
                 children: <InlineSpan>[
                   TextSpan(
-                    text: city + "\n",style: const TextStyle(color: Colors.white,fontWeight: FontWeight.bold),
+                    text: city ,style: const TextStyle(color: Colors.white,fontWeight: FontWeight.bold),
                   ),
                   const WidgetSpan(
                       child: SizedBox(
                         height: 10,
                       )
                   ),
-                  TextSpan(
-                    text: country,style: const TextStyle(color: Colors.white),
-                  )
                 ]
             ),
           )
       ),
       extendBodyBehindAppBar: true,
-      body: DrawerBody(width: width,height: height));
+      body: DrawerBody(width: width,height: height, URL: URL,docID: docID));
 
 
   }
 }
 
 class DrawerBody extends StatelessWidget {
+  final String docID;
+  final String URL;
   final double width;
   final double height;
   const DrawerBody({
+    required this.docID,
+    required this.URL,
     required this.height,
     required this.width,
     Key? key}) : super(key: key);
@@ -53,13 +58,12 @@ class DrawerBody extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        TopImage(height: height),
+        TopImage(height: height, URL: URL,),
         Expanded(child: ListView(
           padding: EdgeInsets.zero,
           children: [
-            Information(width: width),
+            Information(width: width, docID: docID,),
             const SizedBox(height: 40,),
-            Padding(padding: const EdgeInsets.only(left: 20,right: 20),child: Images(width: width/10,height: height/4,),)
           ],
         ))
       ],
@@ -67,41 +71,11 @@ class DrawerBody extends StatelessWidget {
   }
 }
 
-
-class Images extends StatelessWidget {
-  final double height;
-  final double width;
-  const Images({
-    required this.width,
-    required this.height,
-    Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return GestureDetector( 
-        onTap: (){
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => const ImagesPage(itemcount: 20),
-            ),
-          );
-        },
-        child: Container(
-        height: height,
-        width: width,
-        decoration:  BoxDecoration(
-          image: const DecorationImage(image: NetworkImage("https://img.freepik.com/free-photo/panoramic-istanbul-city-twilight-turkey_335224-1278.jpg?w=826&t=st=1687290970~exp=1687291570~hmac=c5438b96180740c659ed60ad1adf7bda9a7228e92975282afebbf96331cd6bed"),
-            fit: BoxFit.fill,
-          ),
-          borderRadius: BorderRadius.circular(10),
-        )));
-  }
-}
-
 class TopImage extends StatelessWidget {
+  final String URL;
   final double height;
   const TopImage({
+  required this.URL,
   required this.height,
   Key? key}) : super(key: key);
 
@@ -109,8 +83,8 @@ class TopImage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
           height: MediaQuery.of(context).size.height/3,
-          decoration: const BoxDecoration(
-            image: DecorationImage(image: NetworkImage("https://img.freepik.com/free-photo/panoramic-istanbul-city-twilight-turkey_335224-1278.jpg?w=826&t=st=1687290970~exp=1687291570~hmac=c5438b96180740c659ed60ad1adf7bda9a7228e92975282afebbf96331cd6bed"),
+          decoration: BoxDecoration(
+            image: DecorationImage(image: NetworkImage(URL),
                 fit: BoxFit.fill
             ),
           )
@@ -121,8 +95,27 @@ class TopImage extends StatelessWidget {
 
 
 class Information extends StatelessWidget {
+  final _memorycontroller = TextEditingController();
   final double width;
-  const Information({
+  final String docID;
+  var memory;
+  late DocumentSnapshot docsnapshot;
+  bool displaymemory = false;
+
+  Future getmemorydata()async{
+    await FirebaseFirestore.instance.collection("users").doc(docID).get().then((value){
+      docsnapshot = value;
+    });
+
+    memory = docsnapshot['memory'];
+  }
+
+  Future updatememory(controller)async{
+    controller.text.trim().length < 10 || controller.text.trim().length > 300 || controller.text.isEmpty ? displaymemory = false : displaymemory = true;
+    await FirebaseFirestore.instance.collection("users").doc(docID).update({"memory":controller.text.trim()});
+  }
+  Information({
+    required this.docID,
     required this.width,
     Key? key}) : super(key: key);
 
@@ -142,11 +135,40 @@ class Information extends StatelessWidget {
           ]
       ),
       child: Column(
-        children: const <Widget>[
+        children:  <Widget>[
           Center(
-            child: Text("ANILAR",style: TextStyle(fontWeight: FontWeight.bold),),
+            child: SizedBox(
+              child: Row(
+                children: [const Text("ANILAR",style: TextStyle(fontWeight: FontWeight.bold),),IconButton(onPressed: (){
+                  showDialog(context: context, builder: (context) => AlertDialog(
+                    content: Container(
+                            decoration: BoxDecoration(
+                                borderRadius: BorderRadius.circular(30),
+                                color: Colors.white
+                            ),
+                            child: Column(
+                              children: [
+                                TextFormField(
+                                  controller: _memorycontroller,
+                                ),
+                                ElevatedButton(onPressed: (){
+                                  updatememory(_memorycontroller);
+                                }, child: Text("Gönder"))
+                              ],
+                            ))
+                  ),
+                  );
+                }, icon: Icon(Icons.edit))],
+              ),
+            ),
           ),
-           Text("ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNALANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL ANILAR FALAN FİNAL")
+          FutureBuilder(
+              future: getmemorydata(),
+              builder: (context,snapshot){
+            return SizedBox(
+              child: memory != null ? Text(memory) : Text("Lüften anı ekleyiniz"),
+            );
+          })
         ],
       )
     );

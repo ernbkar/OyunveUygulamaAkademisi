@@ -1,81 +1,129 @@
+
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:memapp/pages/settingspages/settingspage.dart';
+import 'package:memapp/read_data/getuserdata.dart';
 import 'package:memapp/widgets/favorites.dart';
 import 'package:memapp/pages/drawer.dart';
 import 'package:memapp/widgets/bottomnavigationbar.dart';
-class ProfilePage extends StatelessWidget {
-  const ProfilePage({Key? key}) : super(key: key);
+class ProfilePage extends StatefulWidget {
+  ProfilePage({Key? key}) : super(key: key);
+
+  @override
+  State<ProfilePage> createState() => _ProfilePageState();
+}
+
+class _ProfilePageState extends State<ProfilePage> {
+  String imageID ="";
+  String docID = "";
+  var city;
+  var URL;
+  late DocumentSnapshot docsnapshot;
+
+  Future getDocID() async{
+    await FirebaseFirestore.instance.collection("users").get().then((snapshot) =>(snapshot.docs.forEach((element) {
+      docID = element.reference.id;
+    })));
+  }
+
+  late DocumentSnapshot snapshot;
+
+  Future getImageId()async{
+    await FirebaseFirestore.instance.collection("Imagedata").get().then((snapshot) => (snapshot.docs.forEach((element) {
+      imageID = element.reference.id;
+    })));
+  }
+
+  Future getImagedata()async{
+    await getImageId();
+    await FirebaseFirestore.instance.collection("Imagedata").doc(imageID).get().then((value){
+      snapshot = value;
+    });
+
+    city = snapshot['city'];
+    URL = snapshot['image'];
+  }
+
+
 
   @override
   Widget build(BuildContext context) {
+    //Getting the width and height of context
     final double width = MediaQuery.of(context).size.width;
     final double height = MediaQuery.of(context).size.height;
     return Scaffold(
+      backgroundColor: Colors.indigo,
       extendBodyBehindAppBar: true,
+      //Profile page appbar
       appBar: AppBar(
-        automaticallyImplyLeading: false,
-        centerTitle: true,
-        backgroundColor: Colors.transparent,
-    elevation: 0,
-    title: const Text("PROFİL", style: TextStyle(fontWeight: FontWeight.bold,color: Colors.white,fontSize: 20),),
-    actions: [
-    IconButton(
-    onPressed: (){
-      Navigator.push(
-        context,
-        MaterialPageRoute(builder: (context) => SettingsPage()),
-      );
-    },
-    icon: const Icon(Icons.settings),
-    )
-    ]
-    ),
-      drawer: const CustomDrawer(city: "Istanbul",country: "Turkey"),
-      body: SizedBox(
-        width: width,
-        height: height,
-          child: Stack(
-            children: <Widget>[
-              Align(
-                alignment: Alignment.topCenter,
-                child: TopImage(width: width,height: height,)
-              ),
-              Align(
-                alignment: Alignment.bottomCenter,
-                child: CustomBody(width: width,height: height,)
-              ),
-            ],
-          ),
+          automaticallyImplyLeading: false,
+          centerTitle: true,
+          //Zero elevated transparent appbar color
+          backgroundColor: Colors.transparent,
+          elevation: 0,
+          //Profile page appbar title
+          title: const Text("PROFİL", style: TextStyle(fontWeight: FontWeight.bold,color: Colors.white,fontSize: 20),),
+          actions: [
+            //Settingspage navigator button
+            IconButton(
+              onPressed: (){
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => SettingsPage()),
+                );
+              },
+              icon: const Icon(Icons.settings),
+            )
+          ]
+      ),
+      drawer: FutureBuilder(
+        future: getImagedata(),
+        builder: (context, snapshot){
+          return CustomDrawer(city: city,URL: URL,docID: docID,);
+        },
+      ),
+      body: Align(
+        alignment: Alignment.bottomCenter,
+        child: FutureBuilder(
+          future: getDocID(),
+          builder: (context,snapshot){
+            return CustomBody(width: width, height: height, userid: docID);
+          },
         ),
+      ),
       bottomNavigationBar: CustomBottomNavigationBar(profilepressed: true,searchpressed: false,uploadpressed: false,),
     );
   }
 }
 
-class TopImage extends StatelessWidget {
-  final double width;
-  final double height;
-  const TopImage({
-    required this.width,
-    required this.height,
-    Key? key}) : super(key: key);
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: width,
-      height: height/2.5,
-      decoration: const BoxDecoration(
-          image: DecorationImage(image: NetworkImage("https://picsum.photos/id/237/200/300"),
-              fit: BoxFit.cover)
-      ),
-    );
-  }
-}
 
 class CustomBody extends StatelessWidget {
+  final String userid;
   final double width;
   final double height;
-  const CustomBody({
+  String imageID = "";
+  var city;
+  var URL;
+  late DocumentSnapshot snapshot;
+
+  Future getImageId()async{
+    await FirebaseFirestore.instance.collection("Imagedata").get().then((snapshot) => (snapshot.docs.forEach((element) {
+      imageID = element.reference.id;
+    })));
+  }
+
+  Future getImagedata()async{
+    await getImageId();
+    await FirebaseFirestore.instance.collection("Imagedata").doc(imageID).get().then((value){
+      snapshot = value;
+    });
+
+    city = snapshot['city'];
+    URL = snapshot['image'];
+  }
+  CustomBody({
+    required this.userid,
     required this.width,
     required this.height,
     Key? key}) : super(key: key);
@@ -92,14 +140,16 @@ class CustomBody extends StatelessWidget {
       child: Column(
         children: <Widget>[
           SizedBox(
+            height: 70,
+            width: width,
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: const <Widget>[
-                CircleAvatar(
+              children: <Widget>[
+                const CircleAvatar(
                   radius: 55,
                   backgroundImage: NetworkImage('https://www.woolha.com/media/2020/03/eevee.png'),
                 ),
-                PersonalInformationLine()
+                PersonalInformationLine(userid: userid,)
               ],
             ),
           ),
@@ -107,13 +157,24 @@ class CustomBody extends StatelessWidget {
           Positioned(
               top: height/2,
               left: width/10,
-              child: const InformationLine()),
+              child:  InformationLine(docID: userid,)),
           const SizedBox(height: 10,),
           CustomDivider(width: width,height: height),
           const SizedBox(height: 10,),
-          const Text("Favoriler",style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
+          const Text("Paylaşımlar",style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
           const SizedBox(height: 10,),
-          RouteCard(width: width/1.1, height: 80,city: "Istanbul",country: "Turkey",),
+          FutureBuilder(
+              future: getImagedata(),
+              builder: (context,snapshot){
+                if(URL != null)
+                  {
+                    return RouteCard(city: city,URL: URL,height: 60,width:width/1.2,);
+                  }
+                else
+                  {
+                    return SizedBox();
+                  }
+          })
         ],
       ),
     );
@@ -121,32 +182,107 @@ class CustomBody extends StatelessWidget {
 }
 
 class PersonalInformationLine extends StatelessWidget {
-  const PersonalInformationLine({Key? key}) : super(key: key);
+  final String userid;
+  final currentuser = FirebaseAuth.instance.currentUser;
+
+  //Document ID list
+
+  //Getting userdata document ID from firestore
+
+
+  PersonalInformationLine({
+    required this.userid,
+    Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return RichText(text: const TextSpan(
-      children: <InlineSpan>[
-        TextSpan(text:"Ad Soyad\n",style: TextStyle(color: Colors.black,fontWeight: FontWeight.bold, fontSize: 20)),
-        WidgetSpan(child: SizedBox(height: 30,)),
-        TextSpan(text:"Meslek", style: TextStyle(color: Colors.black)),
-      ],
-    ));
+    return SizedBox(
+      width: MediaQuery.of(context).size.width/2.5,
+     child: Column(
+       children: [
+         SizedBox(
+           child: Row(
+             children: [
+               Getuserdata(selecteddata: 'firstname', docID: userid),
+               const SizedBox(width: 5,),
+               Getuserdata(selecteddata: 'lastname', docID: userid)
+             ],
+           ),
+         ),
+         SizedBox(
+           child: Row(
+             children: [
+               Getuserdata(selecteddata: 'username', docID: userid)
+             ],
+           ),
+         )
+       ],
+     ),
+    );
   }
 }
 
 class InformationLine extends StatelessWidget {
-  const InformationLine({Key? key}) : super(key: key);
+  final _informationcontroller = TextEditingController();
+  final String docID;
+  bool displaybio = false;
+  Future updatebiograph()async{
+    _informationcontroller.text.trim().length < 10 || _informationcontroller.text.trim().length > 300 || _informationcontroller.text.isEmpty ? displaybio = false : displaybio = true;
+    if(displaybio){
+      await FirebaseFirestore.instance.collection("users").doc(docID).update({"biography":_informationcontroller.text.trim()});
+    }
+  }
+
+  InformationLine({
+    required this.docID,
+    Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return RichText(text: const TextSpan(
-        children: <InlineSpan>[
-          TextSpan(text: "Hakkında\n",style: TextStyle(color: Colors.black,fontWeight: FontWeight.bold,fontSize: 15)),
-          WidgetSpan(child: SizedBox(height: 20)),
-          TextSpan(text: "In up so discovery my middleton eagerness dejection explained. Estimating excellence ye contrasted insensible as. Oh up unsatiable advantages decisively as at interested. Present suppose in esteems in demesne colonel it to. End horrible she landlord screened stanhill. Repeated offended you opinions off dissuade ask packages screened. She alteration everything sympathize impossible his get compliment. Collected few extremity suffering met had sportsman. ",style: TextStyle(color: Colors.black)),
-        ]
-    ));
+    return SizedBox(
+      child: Column(
+        children: <Widget>[
+          SizedBox(
+            child: Row(
+              children: <Widget>[
+                const Text("Hakkında", style: TextStyle(fontWeight: FontWeight.bold),),
+                IconButton(onPressed: (){
+                  showDialog(context: context, builder: (context) => AlertDialog(
+                    content: Container(
+                      decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(10),
+                        color: Colors.white
+                      ),
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                        children: <Widget>[
+                          const Text("Hakkında", style: TextStyle(fontWeight: FontWeight.bold),),
+                          SizedBox(
+                            child: TextFormField(
+                            controller: _informationcontroller,
+                            cursorColor: Colors.indigo,
+                            style: const TextStyle(color: Colors.indigo),
+                            decoration: const InputDecoration(
+                                border: InputBorder.none,
+                                contentPadding: EdgeInsets.symmetric(
+                                  vertical: 16,
+                                  horizontal: 16,
+                                ),
+                          ))),
+                          ElevatedButton(onPressed: (){
+                            updatebiograph();
+                          }, child: Text("Update"))
+                        ],
+                      )
+                    ),
+                  ));
+                }, icon: const Icon(Icons.edit))
+              ],
+            ),
+          ),Getuserdata(selecteddata: 'biography', docID: docID)
+        ],
+      )
+    );
   }
 }
 

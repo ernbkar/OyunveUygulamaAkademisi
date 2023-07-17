@@ -2,6 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:memapp/pages/discoverpage.dart';
+import 'package:memapp/pages/registerpage.dart';
 
 
 class LoginPage extends StatelessWidget {
@@ -37,13 +38,6 @@ class LoginPage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              const CircleAvatar(
-                radius: 90,
-                backgroundColor: Colors.white,
-                backgroundImage: NetworkImage(
-                  'https://www.woolha.com/media/2020/03/eevee.png',
-                ),
-              ),
               const SizedBox(height: 40),
               SizedBox(
                 width: width / 1.3,
@@ -72,7 +66,9 @@ class LoginPage extends StatelessWidget {
                             ),
                             backgroundColor: Colors.white
                           ),
-                          onPressed: () {},
+                          onPressed: () {
+                            Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => RegisterPage()));
+                          },
                           child: const Text(
                             'Kayıt Ol',
                             style: TextStyle(color: Colors.indigo),

@@ -32,7 +32,6 @@ class SearchCart extends StatelessWidget {
         child: Row(
           children: <Widget>[
             SideImage(width: width),//SideImage widget
-            UserInfo(width: width)//Userinformation
           ],
         ),
       ),
